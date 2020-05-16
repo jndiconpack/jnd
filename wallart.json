@@ -1,12 +1,68 @@
     [
+        
         {
-        "name": "01",    
+        "name": "Batman",    
+        "url": "https://i.imgur.com/Xb3rHKY.png","thumbnail": "https://i.imgur.com/Xb3rHKYh.png",
+        "collections": "Superhero","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "Batman Dark",    
+        "url": "https://i.imgur.com/LnrwxkL.png","thumbnail": "https://i.imgur.com/LnrwxkLh.png",
+        "collections": "Materials","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "Batman Mix",    
+        "url": "https://i.imgur.com/311N0Aw.png","thumbnail": "https://i.imgur.com/311N0Awh.png",
+        "collections": "Materials","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "",    
         "url": "","thumbnail": "",
+        "collections": "Materials","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "",    
+        "url": "","thumbnail": "",
+        "collections": "Materials","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "Material Waves",    
+        "url": "https://i.imgur.com/8hGS30R.png","thumbnail": "https://i.imgur.com/8hGS30Rh.png",
+        "collections": "Materials","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "Lake",    
+        "url": "https://i.imgur.com/Ogyh1FR.png","thumbnail": "https://i.imgur.com/Ogyh1FRh.png",
         "collections": "landscapes","author": "@ArrowWalls","downloadable": false
         },
         {
-        "name": "01",    
-        "url": "","thumbnail": "",
+        "name": "Fun Plane",    
+        "url": "https://i.imgur.com/v5aAace.png","thumbnail": "https://i.imgur.com/v5aAace.png,
+        "collections": "landscapes","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "Deer",    
+        "url": "https://i.imgur.com/Nt3aBpW.png","thumbnail": "https://i.imgur.com/Nt3aBpWh.png",
+        "collections": "landscapes","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "WindField",    
+        "url": "https://i.imgur.com/P3V85PI.png","thumbnail": "https://i.imgur.com/P3V85PI.png",
+        "collections": "landscapes","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "Minimal Material",    
+        "url": "https://i.imgur.com/r1fIqPQ.png","thumbnail": "https://i.imgur.com/r1fIqPQh.png",
+        "collections": "landscapes","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "Minimal Material",    
+        "url": "https://i.imgur.com/by2Hy3I.png","thumbnail": "https://i.imgur.com/by2Hy3Ih.png",
+        "collections": "landscapes","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "Minimal Material",    
+        "url": "https://i.imgur.com/YhFnsmE.png","thumbnail": "https://i.imgur.com/YhFnsmEh.png",
         "collections": "landscapes","author": "@ArrowWalls","downloadable": false
         },
         {
