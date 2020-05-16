@@ -1,9 +1,19 @@
     [
         
         {
+        "name": "landscapes",    
+        "url": "https://i.imgur.com/P9gNLl0.png","thumbnail": "https://i.imgur.com/P9gNLl0h.png",
+        "collections": "landscapes","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "landscapes",    
+        "url": "https://i.imgur.com/Yo702sF.png","thumbnail": "https://i.imgur.com/Yo702sFh.png",
+        "collections": "landscapes","author": "@ArrowWalls","downloadable": false
+        },
+        {
         "name": "Batman",    
         "url": "https://i.imgur.com/Xb3rHKY.png","thumbnail": "https://i.imgur.com/Xb3rHKYh.png",
-        "collections": "Superhero","author": "@ArrowWalls","downloadable": false
+        "collections": "landscapes","author": "@ArrowWalls","downloadable": false
         },
         {
         "name": "Batman Dark",    
