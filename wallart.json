@@ -8,17 +8,37 @@
         {
         "name": "Batman Dark",    
         "url": "https://i.imgur.com/LnrwxkL.png","thumbnail": "https://i.imgur.com/LnrwxkLh.png",
-        "collections": "Materials","author": "@ArrowWalls","downloadable": false
+        "collections": "Superhero","author": "@ArrowWalls","downloadable": false
         },
         {
         "name": "Batman Mix",    
         "url": "https://i.imgur.com/311N0Aw.png","thumbnail": "https://i.imgur.com/311N0Awh.png",
-        "collections": "Materials","author": "@ArrowWalls","downloadable": false
+        "collections": "Superhero","author": "@ArrowWalls","downloadable": false
         },
         {
-        "name": "",    
-        "url": "","thumbnail": "",
-        "collections": "Materials","author": "@ArrowWalls","downloadable": false
+        "name": "Car",    
+        "url": "https://i.imgur.com/9vjt0Vi.png","thumbnail": "https://i.imgur.com/9vjt0Vih.png",
+        "collections": "Minimal","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "Car bw",    
+        "url": "https://i.imgur.com/gOp6lhc.png","thumbnail": "https://i.imgur.com/gOp6lhch.png",
+        "collections": "Minimal","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "Flash",    
+        "url": "https://i.imgur.com/Yp5nudz.jpg","thumbnail": "https://i.imgur.com/Yp5nudzh.jpg",
+        "collections": "Superhero","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "Cat on window",    
+        "url": "https://i.imgur.com/ibd2Mgl.png","thumbnail": "https://i.imgur.com/ibd2Mglh.png",
+        "collections": "Minimal","author": "@ArrowWalls","downloadable": false
+        },
+        {
+        "name": "Cat on Window",    
+        "url": "https://i.imgur.com/uu5T3gg.png","thumbnail": "https://i.imgur.com/uu5T3ggh.png",
+        "collections": "Minimal","author": "@ArrowWalls","downloadable": false
         },
         {
         "name": "",    
