@@ -189,10 +189,88 @@
 		{
         "name": "Music Lover Earphone v4",    
         "url": "https://i.imgur.com/gjU27TS.jpg","thumbnail": "https://i.imgur.com/gjU27TSh.jpg",
-        "collections": "Other,Minimal,Amoled","author": "@ArrowWalls","downloadable": false
+        "collections": "Other,Minimal,Amoled,Grayscale","author": "@ArrowWalls","downloadable": false
         },
-
-
+		{
+        "name": "Nature Beautiful Mountains v1",
+        "url": "https://i.imgur.com/jsqK2ne.png","thumbnail": "https://i.imgur.com/jsqK2neh.png",
+        "collections": "Landscape,Featured","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Nature Beautiful Mountains v2",
+        "url": "https://i.imgur.com/zNIwVES.png","thumbnail": "https://i.imgur.com/zNIwVESh.png",
+        "collections": "Landscape","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Nature Beautiful Mountains v3",
+        "url": "https://i.imgur.com/HXmw1Rg.png","thumbnail": "https://i.imgur.com/HXmw1Rgh.png",
+        "collections": "Landscape,Grayscale","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Nature Beautiful Mountains v4",
+        "url": "https://i.imgur.com/R7kCEFi.png","thumbnail": ""https://i.imgur.com/R7kCEFih.png,
+        "collections": "Landscape","author": "@ArrowWalls","downloadable": false
+        },
+				{
+        "name": "Thor Superhero v1",
+        "url": "https://i.imgur.com/YBmjJin.png","thumbnail": "https://i.imgur.com/YBmjJinh.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Thor Superhero v2",    
+        "url": "https://i.imgur.com/1uOwltL.png","thumbnail": "https://i.imgur.com/1uOwltLh.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Thor Superhero v3",    
+        "url": "https://i.imgur.com/mcTAE4y.png","thumbnail": "https://i.imgur.com/mcTAE4yh.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Thor Superhero v4",    
+        "url": "https://i.imgur.com/j3oPQi9.png","thumbnail": "https://i.imgur.com/j3oPQi9h.png",
+        "collections": "Superheroes,Grayscale","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "IronMan Superhero v1",    
+        "url": "https://i.imgur.com/i57Naj5.png","thumbnail": "https://i.imgur.com/i57Naj5h.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "IronMan Superhero v2",    
+        "url": "https://i.imgur.com/MZXgiCd.png","thumbnail": "https://i.imgur.com/MZXgiCdh.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "IronMan Superhero v3",    
+        "url": "https://i.imgur.com/UkkMTkR.png","thumbnail": "https://i.imgur.com/UkkMTkRh.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "IronMan Superhero v4",    
+        "url": "https://i.imgur.com/sTviWgL.png","thumbnail": "https://i.imgur.com/sTviWgLh.png",
+        "collections": "Superheroes,Grayscale","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Hulk Superhero v1",
+        "url": "https://i.imgur.com/YdaPGGD.png","thumbnail": "https://i.imgur.com/YdaPGGDh.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Hulk Superhero v2",
+        "url": "https://i.imgur.com/IKuCGsW.png","thumbnail": "https://i.imgur.com/IKuCGsWh.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Hulk Superhero v3",
+        "url": "https://i.imgur.com/zk2OTNS.png","thumbnail": "https://i.imgur.com/zk2OTNSh.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Hulk Superhero v4",
+        "url": "https://i.imgur.com/LvGGrfr.png","thumbnail": "https://i.imgur.com/LvGGrfrh.png",
+        "collections": "Superheroes,Grayscale","author": "@ArrowWalls","downloadable": false
+        },
 
 
 
