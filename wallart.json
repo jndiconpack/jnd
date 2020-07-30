@@ -673,17 +673,17 @@
         },
 		{
         "name": "Boat in Sea v1 WallArt",    
-        "url": "https://i.imgur.com/PBmrc9j.png"
+        "url": "https://i.imgur.com/PBmrc9j.png",
         "collections": "Landscape,Vehicles","author": "@ArrowWalls","downloadable": false
         },
 		{
         "name": "Boat in Sea v2 WallArt",    
-        "url": "https://i.imgur.com/vs1fTK1.png"
+        "url": "https://i.imgur.com/vs1fTK1.png",
         "collections": "Landscape,Vehicles","author": "@ArrowWalls","downloadable": false
         },
 		{
         "name": "Boat in Sea v3 WallArt",    
-        "url": "https://i.imgur.com/OY3vSpq.png"
+        "url": "https://i.imgur.com/OY3vSpq.png",
         "collections": "Landscape,Vehicles,Grayscale","author": "@ArrowWalls","downloadable": false
         },
 		{
@@ -691,7 +691,66 @@
         "url": "https://i.imgur.com/4H1oHPs.png",
         "collections": "Landscape,Vehicles","author": "@ArrowWalls","downloadable": false
         },
-
+		{
+        "name": "Glowing Heart v1",    
+        "url": "https://i.imgur.com/WhFcGTj.png",
+        "collections": "Other","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Glowing Heart v2",    
+        "url": "https://i.imgur.com/mVflyLE.png",
+        "collections": "Other","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Glowing Heart v3",    
+        "url": "https://i.imgur.com/yr9wdGH.png",
+        "collections": "Other,Grayscale","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Glowing Heart v4",    
+        "url": "https://i.imgur.com/AX7BLHj.png",
+        "collections": "Other,Grayscale","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Cat on Window v1",    
+        "url": "https://i.imgur.com/UU3ZG4Z.png",
+        "collections": "Animals,Other","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Cat on Window v2",    
+        "url": "https://i.imgur.com/Pa4o9uz.png",
+        "collections": "Animals,Other","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Minimal Nature Mountain V1 WallArt",    
+        "url": "https://i.imgur.com/geeN3ef.png",
+        "collections": "Landscape","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Minimal Nature Mountain V2 WallArt",    
+        "url": "https://i.imgur.com/VXas2fx.png",
+        "collections": "Landscape","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Beautiful Mountain Nature v1",    
+        "url": "https://i.imgur.com/60UKjMQ.png",
+        "collections": "Landscape,Amoled","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Beautiful Mountain Nature v2",    
+        "url": "https://i.imgur.com/g2frqzw.png",
+        "collections": "Landscape","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Beautiful Mountain Nature v3",    
+        "url": "https://i.imgur.com/rnGq64D.png",
+        "collections": "Landscape,Amoled","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Beautiful Mountain Nature v4",    
+        "url": "https://i.imgur.com/rc9uRBV.png",
+        "collections": "Landscape,Grayscale,Amoled","author": "@ArrowWalls","downloadable": false
+        },
 
 
 
