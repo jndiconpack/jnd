@@ -661,8 +661,36 @@
         "url": "https://i.imgur.com/DkMwYPP.jpg","thumbnail": "https://i.imgur.com/DkMwYPPh.jpg",
         "collections": "Other,Featured","author": "@ArrowWalls","downloadable": false
         },
-		
-
+		{
+        "name": "Batman Climbing Superhero v1",    
+        "url": "https://i.imgur.com/HeaUh64.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Batman Climbing Superhero v2",    
+        "url": "https://i.imgur.com/CqHptx6.png",
+        "collections": "Superheroes,Amoled","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Boat in Sea v1 WallArt",    
+        "url": "https://i.imgur.com/PBmrc9j.png"
+        "collections": "Landscape,Vehicles","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Boat in Sea v2 WallArt",    
+        "url": "https://i.imgur.com/vs1fTK1.png"
+        "collections": "Landscape,Vehicles","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Boat in Sea v3 WallArt",    
+        "url": "https://i.imgur.com/OY3vSpq.png"
+        "collections": "Landscape,Vehicles,Grayscale","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Boat in Sea v4 WallArt",    
+        "url": "https://i.imgur.com/4H1oHPs.png",
+        "collections": "Landscape,Vehicles","author": "@ArrowWalls","downloadable": false
+        },
 
 
 
