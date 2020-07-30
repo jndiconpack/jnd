@@ -391,6 +391,86 @@
         "url": "https://i.imgur.com/uaMJcHS.png","thumbnail": "https://i.imgur.com/uaMJcHSh.png",
         "collections": "Sports","author": "@ArrowWalls","downloadable": false
         },
+		{
+        "name": "Abstract Gradient v1",    
+        "url": "https://i.imgur.com/jZsD4WY.png","thumbnail": "https://i.imgur.com/jZsD4WYh.png",
+        "collections": "Abstract,Amoled","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Abstract Gradient v2",    
+        "url": "https://i.imgur.com/Y7iA55g.png","thumbnail": "https://i.imgur.com/Y7iA55gh.png",
+        "collections": "Abstract,Amoled","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Abstract Gradient v3",    
+        "url": "https://i.imgur.com/mckcRjI.png","thumbnail": "https://i.imgur.com/mckcRjIh.png",
+        "collections": "Abstract,Amoled","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Abstract Gradient v4",    
+        "url": "https://i.imgur.com/SzLlNyW.png","thumbnail": "https://i.imgur.com/SzLlNyWh.png",
+        "collections": "Abstract,Amoled","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Lake Swan v1",    
+        "url": "https://i.imgur.com/yIakUfk.png","thumbnail": "https://i.imgur.com/yIakUfkh.png",
+        "collections": "Landscape","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Lake Swan v2",    
+        "url": "https://i.imgur.com/MYDpuKG.png","thumbnail": "https://i.imgur.com/MYDpuKGh.png",
+        "collections": "Landscape","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Lake Swan v3",    
+        "url": "https://i.imgur.com/Br7hld8.png","thumbnail": "https://i.imgur.com/Br7hld8h.png",
+        "collections": "Landscape","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Lake Swan v4",    
+        "url": "https://i.imgur.com/Y2IhupX.png","thumbnail": "https://i.imgur.com/Y2IhupXh.png",
+        "collections": "Landscape","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Love Heart v1",    
+        "url": "https://i.imgur.com/iyhLgc0.png","thumbnail": "https://i.imgur.com/iyhLgc0th.png",
+        "collections": "Minimal,Other","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Love Heart v2",    
+        "url": "https://i.imgur.com/7PvFc3n.png","thumbnail": "https://i.imgur.com/7PvFc3nth.png",
+        "collections": "Minimal,Other","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Material Abstract v1",    
+        "url": "https://i.imgur.com/s1D8kMT.png","thumbnail": "https://i.imgur.com/s1D8kMTh.png",
+        "collections": "Abstract","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Material Abstract v2",    
+        "url": "https://i.imgur.com/JPzwNAs.png","thumbnail": "https://i.imgur.com/JPzwNAsh.png",
+        "collections": "Abstract","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Material Abstract v3",    
+        "url": "https://i.imgur.com/klkT058.png","thumbnail": "https://i.imgur.com/klkT058h.png",
+        "collections": "Abstract","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Material Abstract v4",    
+        "url": "https://i.imgur.com/xEK3HWm.png","thumbnail": "https://i.imgur.com/xEK3HWmh.png",
+        "collections": "Abstract,Grayscale","author": "@ArrowWalls","downloadable": false
+        },
+		
+		
+		
+		
+		
+		
+
+
+
+
 
 
 
@@ -399,7 +479,7 @@
 		{
         "name": "",    
         "url": "","thumbnail": "",
-        "collections": "Sports,Grayscale","author": "@ArrowWalls","downloadable": false
+        "collections": "","author": "@ArrowWalls","downloadable": false
         },
 
 
