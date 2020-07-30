@@ -208,10 +208,10 @@
         },
 		{
         "name": "Nature Beautiful Mountains v4",
-        "url": "https://i.imgur.com/R7kCEFi.png","thumbnail": ""https://i.imgur.com/R7kCEFih.png,
+        "url": "https://i.imgur.com/R7kCEFi.png","thumbnail": "https://i.imgur.com/R7kCEFih.png",
         "collections": "Landscape","author": "@ArrowWalls","downloadable": false
         },
-				{
+		{
         "name": "Thor Superhero v1",
         "url": "https://i.imgur.com/YBmjJin.png","thumbnail": "https://i.imgur.com/YBmjJinh.png",
         "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
@@ -271,7 +271,46 @@
         "url": "https://i.imgur.com/LvGGrfr.png","thumbnail": "https://i.imgur.com/LvGGrfrh.png",
         "collections": "Superheroes,Grayscale","author": "@ArrowWalls","downloadable": false
         },
-
+		{
+        "name": "Flash Superhero v1",
+        "url": "https://i.imgur.com/OSuO6p0.png","thumbnail": "https://i.imgur.com/OSuO6p0h.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Flash Superhero v2",
+        "url": "https://i.imgur.com/gQHVIsR.png","thumbnail": "https://i.imgur.com/gQHVIsRh.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Flash Superhero v3",
+        "url": "https://i.imgur.com/jUVfUDt.png","thumbnail": "https://i.imgur.com/jUVfUDth.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Flash Superhero v4",
+        "url": "https://i.imgur.com/8ZhJGmJ.png","thumbnail": "https://i.imgur.com/8ZhJGmJh.png",
+        "collections": "Superheroes,Grayscale","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Captain America Superhero v1",
+        "url": "https://i.imgur.com/4GVDWhM.png","thumbnail": "https://i.imgur.com/4GVDWhMh.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Captain America Superhero v2",    
+        "url": "https://i.imgur.com/MHnVrSD.png","thumbnail": "https://i.imgur.com/MHnVrSDh.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Captain America Superhero v3",    
+        "url": "https://i.imgur.com/20UGCEF.png","thumbnail": "https://i.imgur.com/20UGCEFh.png",
+        "collections": "Superheroes","author": "@ArrowWalls","downloadable": false
+        },
+		{
+        "name": "Captain America Superhero v4",    
+        "url": "https://i.imgur.com/vVhE9dj.png","thumbnail": "https://i.imgur.com/vVhE9djh.png",
+        "collections": "Superheroes,Grayscale","author": "@ArrowWalls","downloadable": false
+        },
 
 
 
