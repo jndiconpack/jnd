@@ -1137,12 +1137,25 @@
 "collections": "Superheroes,Grayscale","author": "@ArrowWalls","downloadable": false
 },
 
-
-
 {
-"name": "",    
-"url": "","thumbnail": "",
-"collections": "","author": "@ArrowWalls","downloadable": false
+"name": "City Buildings V1 WallArt",    
+"url": "https://i.imgur.com/KbKHmRj.png",
+"collections": "Buildings","author": "@ArrowWalls","downloadable": false
+},
+{
+"name": "City Buildings V1 WallArt",    
+"url": "https://i.imgur.com/hzUc79w.png",
+"collections": "Buildings,Grayscale","author": "@ArrowWalls","downloadable": false
+},
+{
+"name": "Girl V1",    
+"url": "https://i.imgur.com/Q3NJ6eO.png",
+"collections": "Other","author": "@ArrowWalls","downloadable": false
+},
+{
+"name": "Girl V2",    
+"url": "https://i.imgur.com/OyQ68BT.png",
+"collections": "Other","author": "@ArrowWalls","downloadable": false
 },
 
 
@@ -1160,7 +1173,7 @@
 "name": "Material",
 "url": "https://i.imgur.com/75qm6Gu.jpg",
 "thumbnail": "https://i.imgur.com/75qm6Guh.jpg",
-"collections": "Material",
+"collections": "Abstract",
 "author": "@ArrowWalls",
 "downloadable": false
 }
