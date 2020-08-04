@@ -37,7 +37,7 @@
 {
 "name": "Wave Color Abstract v1",    
 "url": "https://i.imgur.com/SdwZVJh.png","thumbnail": "https://i.imgur.com/SdwZVJhh.png",
-"collections": "Abstract,Featured","author": "@ArrowWalls","downloadable": false
+"collections": "Abstract,Featured,Amoled","author": "@ArrowWalls","downloadable": false
 },
 {
 "name": "Wave Color Abstract v2",    
@@ -54,7 +54,7 @@
 {
 "name": "Curvy Hills Landscape Nature v2",    
 "url": "https://i.imgur.com/WshcvWZ.png","thumbnail": "https://i.imgur.com/WshcvWZh.png",
-"collections": "Landscape","author": "@ArrowWalls","downloadable": false
+"collections": "Landscape,Amoled","author": "@ArrowWalls","downloadable": false
 },
 {
 "name": "Curvy Hills Landscape Nature v3",    
@@ -93,7 +93,7 @@
 {
 "name": "Deer jump in Forest v1",    
 "url": "https://i.imgur.com/190e1Yy.png","thumbnail": "https://i.imgur.com/190e1Yyh.png",
-"collections": "Landscape,Featured","author": "@ArrowWalls","downloadable": false
+"collections": "Landscape,Featured,Amoled","author": "@ArrowWalls","downloadable": false
 },
 {
 "name": "Deer jump in Forest v2",    
@@ -130,7 +130,7 @@
 {
 "name": "Batman Superheroes v4",    
 "url": "https://i.imgur.com/24SVSTp.png","thumbnail": "https://i.imgur.com/24SVSTph.png",
-"collections": "Superheroes,Amoled","author": "@ArrowWalls","downloadable": false
+"collections": "Superheroes","author": "@ArrowWalls","downloadable": false
 },
 
 
@@ -152,7 +152,7 @@
 {
 "name": "Boat Ocean v4",    
 "url": "https://i.imgur.com/3Kb8lI4.png","thumbnail": "https://i.imgur.com/3Kb8lI4h.png",
-"collections": "Landscape","author": "@ArrowWalls","downloadable": false
+"collections": "Landscape,Amoled","author": "@ArrowWalls","downloadable": false
 },
 
 
@@ -203,7 +203,7 @@
 {
 "name": "Music Lover Earphone v3",    
 "url": "https://i.imgur.com/v35P3Hn.jpg","thumbnail": "https://i.imgur.com/v35P3Hnh.jpg",
-"collections": "Other,Minimal","author": "@ArrowWalls","downloadable": false
+"collections": "Other,Minimal,Grayscale","author": "@ArrowWalls","downloadable": false
 },
 {
 "name": "Music Lover Earphone v4",    
@@ -248,12 +248,12 @@
 {
 "name": "Deer Sunset v1",
 "url": "https://i.imgur.com/bQkx3Uz.png","thumbnail": "https://i.imgur.com/bQkx3Uzh.png",
-"collections": "Landscape,Featured","author": "@ArrowWalls","downloadable": false
+"collections": "Landscape,Featured,Amoled","author": "@ArrowWalls","downloadable": false
 },
 {
 "name": "Deer Sunset v2",
 "url": "https://i.imgur.com/qgn7Tbb.png","thumbnail": "https://i.imgur.com/qgn7Tbbh.png",
-"collections": "Landscape","author": "@ArrowWalls","downloadable": false
+"collections": "Landscape,Amoled","author": "@ArrowWalls","downloadable": false
 },
 
 
@@ -412,7 +412,7 @@
 {
 "name": "Palm Tree Ocean v1",    
 "url": "https://i.imgur.com/dOJoKQH.png","thumbnail": "https://i.imgur.com/dOJoKQHh.png",
-"collections": "Landscape,Amoled","author": "@ArrowWalls","downloadable": false
+"collections": "Landscape,Amoled,Featured","author": "@ArrowWalls","downloadable": false
 },
 {
 "name": "Palm Tree Ocean v2",    
@@ -572,6 +572,8 @@
 "url": "https://i.imgur.com/xEK3HWm.png","thumbnail": "https://i.imgur.com/xEK3HWmh.png",
 "collections": "Abstract,Grayscale","author": "@ArrowWalls","downloadable": false
 },
+
+
 {
 "name": "Astronaut in Space v1",    
 "url": "https://i.imgur.com/qdo3ijW.png","thumbnail": "https://i.imgur.com/qdo3ijWh.png",
@@ -592,6 +594,8 @@
 "url": "https://i.imgur.com/YvoYBkG.png","thumbnail": "https://i.imgur.com/YvoYBkGh.png",
 "collections": "Space,Minimal,Amoled","author": "@ArrowWalls","downloadable": false
 },
+
+
 {
 "name": "Fox On the edge of Hill V1",    
 "url": "https://i.imgur.com/tZgvBkI.jpg","thumbnail": "https://i.imgur.com/tZgvBkIh.jpg",
@@ -600,8 +604,10 @@
 {
 "name": "Fox On the edge of Hill V2",    
 "url": "https://i.imgur.com/qM06wzj.jpg","thumbnail": "https://i.imgur.com/qM06wzjh.jpg",
-"collections": "Landscape,Animals,Grainy","author": "@ArrowWalls","downloadable": false
+"collections": "Landscape,Animals,Grainy,Featured","author": "@ArrowWalls","downloadable": false
 },
+
+
 {
 "name": "Game Over V1",    
 "url": "https://i.imgur.com/11uqRiW.png","thumbnail": "https://i.imgur.com/11uqRiWh.png",
@@ -612,6 +618,8 @@
 "url": "https://i.imgur.com/LeFamkQ.png","thumbnail": "https://i.imgur.com/LeFamkQh.png",
 "collections": "Minimal,Other","author": "@ArrowWalls","downloadable": false
 },
+
+
 {
 "name": "Landscape V1 Winter Snow",    
 "url": "https://i.imgur.com/H8tgLJ0.png","thumbnail": "https://i.imgur.com/H8tgLJ0h.png",
@@ -622,6 +630,8 @@
 "url": "https://i.imgur.com/OubfizO.png","thumbnail": "https://i.imgur.com/OubfizOh.png",
 "collections": "Landscape","author": "@ArrowWalls","downloadable": false
 },
+
+
 {
 "name": "Rocket in the Space v1",    
 "url": "https://i.imgur.com/6LlCWwv.png","thumbnail": "https://i.imgur.com/6LlCWwvh.png",
@@ -632,6 +642,8 @@
 "url": "https://i.imgur.com/vPdfNvD.png","thumbnail": "https://i.imgur.com/vPdfNvDh.png",
 "collections": "Space","author": "@ArrowWalls","downloadable": false
 },
+
+
 {
 "name": "Windfarm Landscape 1",    
 "url": "https://i.imgur.com/6QJetiw.png","thumbnail": "https://i.imgur.com/6QJetiwt.png",
@@ -652,6 +664,8 @@
 "url": "https://i.imgur.com/wfHshQb.png","thumbnail": "https://i.imgur.com/wfHshQbh.png",
 "collections": "Landscape","author": "@ArrowWalls","downloadable": false
 },
+
+
 {
 "name": "Abstract Plane v1 WallArt",    
 "url": "https://i.imgur.com/Tdsymts.png","thumbnail": "https://i.imgur.com/Tdsymtsh.png",
@@ -672,6 +686,8 @@
 "url": "https://i.imgur.com/rUxr9YH.png","thumbnail": "https://i.imgur.com/rUxr9YHh.png",
 "collections": "Abstract,Vehicles,Grayscale","author": "@ArrowWalls","downloadable": false
 },
+
+
 {
 "name": "Forest Sunset v1 WallArt",    
 "url": "https://i.imgur.com/Bi5qLaS.png","thumbnail": "https://i.imgur.com/Bi5qLaSh.png",
@@ -692,6 +708,8 @@
 "url": "https://i.imgur.com/c7nY9Oi.png","thumbnail": "https://i.imgur.com/c7nY9Oih.png",
 "collections": "Landscape","author": "@ArrowWalls","downloadable": false
 },
+
+
 {
 "name": "Liquid Abstract V1 WallArt",    
 "url": "https://i.imgur.com/1awkkx0.png","thumbnail": "https://i.imgur.com/1awkkx0h.png",
@@ -702,6 +720,8 @@
 "url": "https://i.imgur.com/fd08VSY.png","thumbnail": "https://i.imgur.com/fd08VSYh.png",
 "collections": "Abstract,Featured","author": "@ArrowWalls","downloadable": false
 },
+
+
 {
 "name": "Men",    
 "url": "https://i.imgur.com/vPBBzE2.png","thumbnail": "https://i.imgur.com/vPBBzE2.png",
@@ -712,6 +732,8 @@
 "url": "https://i.imgur.com/HF5X80l.png","thumbnail": "https://i.imgur.com/HF5X80l.png",
 "collections": "Other","author": "@ArrowWalls","downloadable": false
 },
+
+
 {
 "name": "Material Abstract 2 v1",    
 "url": "https://i.imgur.com/GmFWAwG.png","thumbnail": "https://i.imgur.com/GmFWAwGh.png",
