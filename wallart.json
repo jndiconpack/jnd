@@ -947,12 +947,12 @@
 {
 "name": "Minimal Abstract v1 WallArt",    
 "url": "https://i.imgur.com/t0DwbI5.png",
-"collections": "Abstract,Minimal.Grayscale","author": "@ArrowWalls","downloadable": false
+"collections": "Abstract,Minimal,Grayscale","author": "@ArrowWalls","downloadable": false
 },
 {
 "name": "Minimal Abstract v2 WallArt",    
 "url": "https://i.imgur.com/SkB8MQa.png",
-"collections": "Abstract,Minimal.Grayscale","author": "@ArrowWalls","downloadable": false
+"collections": "Abstract,Minimal,Grayscale","author": "@ArrowWalls","downloadable": false
 },
 {
 "name": "Minimal Car",    
