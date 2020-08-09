@@ -1,6 +1,28 @@
 [
 
 {
+"name": "Jungle Landscape V1",
+"url": "https://i.imgur.com/G6tM0UK.png","thumbnail": "https://i.imgur.com/G6tM0UKh.png",
+"collections": "Landscape,Amoled","author": "@ArrowWalls","downloadable": false
+},
+{
+"name": "Jungle Landscape V2",
+"url": "https://i.imgur.com/9hIKcuf.png","thumbnail": "https://i.imgur.com/9hIKcufh.png",
+"collections": "Landscape,Amoled","author": "@ArrowWalls","downloadable": false
+},
+{
+"name": "Jungle Landscape V3",
+"url": "https://i.imgur.com/TMbwObQ.png","thumbnail": "https://i.imgur.com/TMbwObQh.png",
+"collections": "Landscape,Amoled","author": "@ArrowWalls","downloadable": false
+},
+{
+"name": "Jungle Landscape V4",
+"url": "https://i.imgur.com/XKsR76O.png","thumbnail": "https://i.imgur.com/XKsR76Oh.png",
+"collections": "Landscape,Amoled,Greyscale","author": "@ArrowWalls","downloadable": false
+},
+
+
+{
 "name": "Minimal Beach v1",
 "url": "https://i.imgur.com/dZ4OeuU.png",
 "collections": "Minimal","author": "@ArrowWalls","downloadable": false
@@ -42,8 +64,6 @@
 "url": "https://i.imgur.com/K4afX4w.png","thumbnail": "https://i.imgur.com/K4afX4wh.png",
 "collections": "Abstract","author": "@ArrowWalls","downloadable": false
 },
-
-
 
 {
 "name": "Beautiful Landscape River v1",    
