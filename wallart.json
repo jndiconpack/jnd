@@ -1,5 +1,51 @@
 [
 
+
+
+{
+"name": "Empire state Newyork v1",
+"url": "https://i.imgur.com/UFp7Uyp.png",
+"collections": "Minimal,Amoled,Buildings","author": "@ArrowWalls","downloadable": false
+},
+{
+"name": "Empire state Newyork v2",
+"url": "https://i.imgur.com/1NBKZAb.png",
+"collections": "Minimal,Amoled,Buildings","author": "@ArrowWalls","downloadable": false
+},
+{
+"name": "Empire state Newyork v3",
+"url": "https://i.imgur.com/aRxT4L5.png",
+"collections": "Minimal,Amoled,Buildings","author": "@ArrowWalls","downloadable": false
+},
+{
+"name": "Empire state Newyork v4",
+"url": "https://i.imgur.com/nJ8REvs.png",
+"collections": "Minimal,Amoled,Buildings","author": "@ArrowWalls","downloadable": false
+},
+
+
+{
+"name": "Corner Abstract Pattern",
+"url": "https://i.imgur.com/UugdMR3.png","thumbnail": "https://i.imgur.com/UugdMR3h.png",
+"collections": "Patterns,Amoled","author": "@ArrowWalls","downloadable": false
+},
+{
+"name": "Corner Abstract Pattern v2",
+"url": "https://i.imgur.com/s0rU0Uz.png","thumbnail": "https://i.imgur.com/s0rU0Uzh.png",
+"collections": "Patterns,Amoled","author": "@ArrowWalls","downloadable": false
+},
+{
+"name": "Corner Abstract Pattern v3",
+"url": "https://i.imgur.com/jCihZWK.png","thumbnail": "https://i.imgur.com/jCihZWKh.png",
+"collections": "Patterns,Amoled","author": "@ArrowWalls","downloadable": false
+},
+{
+"name": "Corner Abstract Pattern v4",
+"url": "https://i.imgur.com/RW4sB7G.png","thumbnail": "https://i.imgur.com/RW4sB7Gh.png",
+"collections": "Patterns,Amoled","author": "@ArrowWalls","downloadable": false
+},
+
+
 {
 "name": "Jungle Landscape V1",
 "url": "https://i.imgur.com/G6tM0UK.png","thumbnail": "https://i.imgur.com/G6tM0UKh.png",
@@ -18,7 +64,7 @@
 {
 "name": "Jungle Landscape V4",
 "url": "https://i.imgur.com/XKsR76O.png","thumbnail": "https://i.imgur.com/XKsR76Oh.png",
-"collections": "Landscape,Amoled,Greyscale","author": "@ArrowWalls","downloadable": false
+"collections": "Landscape,Amoled,Grayscale","author": "@ArrowWalls","downloadable": false
 },
 
 
