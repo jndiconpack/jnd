@@ -8,6 +8,75 @@
 		"copyright": "Unknown",
 		"collections": "landscapes"
 	},
+	
+	{"name": "Dove Wall","author": "JustNewDesigns",
+	"url": "https://i.imgur.com/8fZyTzg.jpg",
+	"thumbnail": "https://i.imgur.com/8fZyTzgh.jpg",
+	"collections": "featured,dove"
+	},
+	{"name": "Dove Wall","author": "JustNewDesigns",
+	"url": "https://i.imgur.com/aIF88Q9.jpg",
+	"thumbnail": "https://i.imgur.com/aIF88Q9h.jpg",
+	"collections": "dove"
+	},
+	{"name": "Dove Wall","author": "JustNewDesigns",
+	"url": "https://i.imgur.com/2ogTE5a.jpg",
+	"thumbnail": "https://i.imgur.com/2ogTE5ah.jpg",
+	"collections": "dove"
+	},
+	{"name": "Dove Wall","author": "JustNewDesigns",
+	"url": "https://i.imgur.com/FWKb8gJ.jpg",
+	"thumbnail": "https://i.imgur.com/FWKb8gJh.jpg",
+	"collections": "dove"
+	},
+	{"name": "Dove Wall","author": "JustNewDesigns",
+	"url": "https://i.imgur.com/1YNegS4.jpg",
+	"thumbnail": "https://i.imgur.com/1YNegS4h.jpg",
+	"collections": "dove"
+	},
+	{"name": "Dove Wall","author": "JustNewDesigns",
+	"url": "https://i.imgur.com/yQ8PCI0.jpg",
+	"thumbnail": "https://i.imgur.com/yQ8PCI0h.jpg",
+	"collections": "dove"
+	},
+	{"name": "Dove Wall","author": "JustNewDesigns",
+	"url": "https://i.imgur.com/NhGAkzc.jpg",
+	"thumbnail": "https://i.imgur.com/NhGAkzch.jpg",
+	"collections": "dove"
+	},
+	{"name": "Dove Wall","author": "JustNewDesigns",
+	"url": "https://i.imgur.com/LAw5Lt1.jpg",
+	"thumbnail": "https://i.imgur.com/LAw5Lt1h.jpg",
+	"collections": "dove"
+	},
+	{"name": "Dove Wall","author": "JustNewDesigns",
+	"url": "https://i.imgur.com/l2JBTUd.jpg",
+	"thumbnail": "https://i.imgur.com/l2JBTUdh.jpg",
+	"collections": "dove"
+	},
+	{"name": "Dove Wall","author": "JustNewDesigns",
+	"url": "https://i.imgur.com/kDIrUQS.jpg",
+	"thumbnail": "https://i.imgur.com/kDIrUQSh.jpg",
+	"collections": "dove"
+	},
+		{"name": "Dove Wall","author": "JustNewDesigns",
+	"url": "https://i.imgur.com/3QUOap0.jpg",
+	"thumbnail": "https://i.imgur.com/3QUOap0h.jpg",
+	"collections": "dove"
+	},
+	{"name": "Dove Wall","author": "JustNewDesigns",
+	"url": "https://i.imgur.com/aFYUDPN.jpg",
+	"thumbnail": "https://i.imgur.com/aFYUDPNh.jpg",
+	"collections": "dove"
+	},
+	{"name": "Dove Wall","author": "JustNewDesigns",
+	"url": "https://i.imgur.com/2f4zkGn.jpg",
+	"thumbnail": "https://i.imgur.com/2f4zkGnh.jpg",
+	"collections": "dove"
+	},
+
+	
+	
       {
 		"name": "ShotA",
 		"author": "Someone",
@@ -33,8 +102,7 @@
 	{
 		"name": "Wallsplash 1",
 		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+		
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,landscapes,people,city",
