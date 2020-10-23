@@ -1,12 +1,8 @@
 [
-      {
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
+	{"name": "Dove Wall",
+	"url": "https://i.imgur.com/8fZyTzg.jpg",
+	"thumbnail": "https://i.imgur.com/8fZyTzgh.jpg",
+	"collections": "featured,dove"
 	},
 
 	{
@@ -86,6 +82,8 @@
 		"name": "Dove Wall",
 		"collections": "nature"
 	},
+
+
 	{
 		"author": "",
 		"url": "https://drive.google.com/uc?id=1apnYXdemwbYknFfcBpzZ3xiAOvd5nJJW",
