@@ -1,29 +1,4 @@
-{
-"Collections": [
-    {
-      "name": "Linex",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
-    },
-    {
-      "name": "City",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
-    },
-    {
-      "name": "Food",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-    },
-    {
-      "name": "People",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
-    }
-  ],
-  
-
- "Wallpapers":[
+[
  
 
 
@@ -88,8 +63,5 @@
 {"url": "https://drive.google.com/uc?id=1f5paPCWtALOTnn5x9yiUsH8G5JTldqa0","thumbnail": "https://drive.google.com/uc?id=13bmcxr1e2gz9Ed-U292mqsqgk_iuX3Zb","name": "Crayon","collections":"Linex","author": "Unsplash", "downloadable": true},
 {"url": "https://drive.google.com/uc?id=1Dljydw-utv07s6avliCB_yC78wgDs8ki","thumbnail": "https://drive.google.com/uc?id=1Ah8bxyAJV90uPmOmDv8ckW0QPk0YTKkM","name": "Crayon","collections":"Linex","author": "Unsplash", "downloadable": true}
 
-
-
- ]
-}
+]
 
