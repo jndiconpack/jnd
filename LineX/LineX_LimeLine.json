@@ -1,25 +1,12 @@
-{
- "Collections":[
-  {
-"name":"JND",
-"preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-"preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-  },
-  {
-"name":"JN",
-"preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-"preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
-  }
- ],
- "Wallpapers":[
+[
  
  
-{"name": "LimeLine Special Wall","url": "https://i.imgur.com/tPd1AwY.jpg","thumbUrl": "https://i.imgur.com/tPd1AwYh.jpg","category": "LineX", "downloadable": false},
-{"name": "LimeLine Special Wall","url": "https://i.imgur.com/EQj2QDH.jpg","thumbUrl": "https://i.imgur.com/EQj2QDHh.jpg","category": "LineX", "downloadable": false},
-{"name": "LimeLine Special Wall","url": "https://i.imgur.com/8jaiAdS.jpg","thumbUrl": "https://i.imgur.com/8jaiAdSh.jpg","category": "LineX", "downloadable": false},
-{"name": "LimeLine Special Wall","url": "https://i.imgur.com/gqzkgw1.jpg","thumbUrl": "https://i.imgur.com/gqzkgw1h.jpg","category": "LineX", "downloadable": false},
-{"name": "LimeLine Special Wall","url": "https://i.imgur.com/B7sSkK6.jpg","thumbUrl": "https://i.imgur.com/B7sSkK6h.jpg","category": "LineX", "downloadable": false},
-{"name": "LimeLine Special Wall","url": "https://i.imgur.com/wCd6wsX.jpg","thumbUrl": "https://i.imgur.com/wCd6wsXh.jpg","category": "LineX", "downloadable": false},
+{"name": "LimeLine Special Wall","url": "https://i.imgur.com/tPd1AwY.jpg","thumbnail": "https://i.imgur.com/tPd1AwYh.jpg","collections": "LineX", "downloadable": false},
+{"name": "LimeLine Special Wall","url": "https://i.imgur.com/EQj2QDH.jpg","thumbnail": "https://i.imgur.com/EQj2QDHh.jpg","collections": "LineX", "downloadable": false},
+{"name": "LimeLine Special Wall","url": "https://i.imgur.com/8jaiAdS.jpg","thumbnail": "https://i.imgur.com/8jaiAdSh.jpg","collections": "LineX", "downloadable": false},
+{"name": "LimeLine Special Wall","url": "https://i.imgur.com/gqzkgw1.jpg","thumbnail": "https://i.imgur.com/gqzkgw1h.jpg","collections": "LineX", "downloadable": false},
+{"name": "LimeLine Special Wall","url": "https://i.imgur.com/B7sSkK6.jpg","thumbnail": "https://i.imgur.com/B7sSkK6h.jpg","collections": "LineX", "downloadable": false},
+{"name": "LimeLine Special Wall","url": "https://i.imgur.com/wCd6wsX.jpg","thumbnail": "https://i.imgur.com/wCd6wsXh.jpg","collections": "LineX", "downloadable": false},
  
 {"url": "https://drive.google.com/uc?id=1ys6eVl4ykkLIWkGRCfZN8r39H2hwGecy","thumbnail": "https://drive.google.com/uc?id=158GhfIZsbALQ7FmF3PuytIU9BeRX2Ba0","name": "LimeLine Wall","collections":"Linex"},
 {"url": "https://drive.google.com/uc?id=1onrFEV6der8R1d8aFi_xpVGg2vMNiD06","thumbnail": "https://drive.google.com/uc?id=1yBqEkPtq3gFukQSS0qFhOSCjRS73hP2g","name": "LimeLine Wall 1","collections":"Linex"},
@@ -161,12 +148,7 @@
 {"author": "Stock","url": "https://drive.google.com/uc?id=0B-Aedh1Br8ZaTGxrVEE4SGlkOVE","thumbnail": "https://drive.google.com/uc?id=0B-Aedh1Br8ZaTGxrVEE4SGlkOVE","name": "LineX Wall","collections": "stock"},
 {"author": "Stock","url": "https://drive.google.com/uc?id=0B-Aedh1Br8ZaVmRmOGw0ZU44bW8","thumbnail": "https://drive.google.com/uc?id=0B-Aedh1Br8ZaVmRmOGw0ZU44bW8","name": "LineX Wall","collections": "stock"},
 {"author": "Stock","url": "https://drive.google.com/uc?id=0B-Aedh1Br8Zadmg1bmt2cFVDOW8","thumbnail": "https://drive.google.com/uc?id=0B-Aedh1Br8Zadmg1bmt2cFVDOW8","name": "LineX Wall","collections": "stock"},
-{
-"author": "Stock",
-"url": "https://drive.google.com/uc?id=0B-Aedh1Br8ZadVdKZFpXRmZPQ1U",
-"thumbnail": "https://drive.google.com/uc?id=0B-Aedh1Br8ZadVdKZFpXRmZPQ1U",
-"name": "LineX Wall",
-"collections": "stock"
+{"author": "Stock","url": "https://drive.google.com/uc?id=0B-Aedh1Br8ZadVdKZFpXRmZPQ1U","thumbnail": "https://drive.google.com/uc?id=0B-Aedh1Br8ZadVdKZFpXRmZPQ1U","name": "LineX Wall","collections": "stock"
 },
 {
 "author": "Stock",
