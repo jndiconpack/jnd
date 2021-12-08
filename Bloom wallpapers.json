@@ -1,19 +1,4 @@
-{
- "Collections":[
-  {
-"name":"JND",
-"preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-"preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-  },
-  {
-"name":"JN",
-"preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-"preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
-  }
- ],
- "Wallpapers":[
-
-  	
+[
   	
 {"url": "https://drive.google.com/uc?id=1i-BiPJsEaVRA6BRG1m7GDqO5ujiMP1fh","thumbnail": "https://drive.google.com/uc?id=1Vi1t875iZxcuE4wvFBt1rIj_xd4pE3wP","name": "Wallpaper 01 Bloom","collections": "nature"},
 {"url": "https://drive.google.com/uc?id=1toZ8NCUeQPcZtA-MKtYke1GBB_MKCFXp","thumbnail": "https://drive.google.com/uc?id=19WrY8iVISeNYWB_CQzSNg_9rjTRmBaFB","name": "Wallpaper 02","collections": "nature"},
@@ -714,6 +699,5 @@
 "name": "Staircase",
 "collections": "nature"
 }
- ]
-}
 
+]
