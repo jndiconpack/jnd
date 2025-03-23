@@ -1,0 +1,47 @@
+{
+  "wallpapers": [
+    {
+      "id": "default_clock",
+      "name": "Clock Wallpaper 2",
+      "category": "Digital",
+      "preview_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_pr.png",
+      "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_bg.png",
+      "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_fg.png",
+      "config": {
+        "font_size": 320.0,
+        "font_color": "#FFFFFF",
+        "font_family": "roboto_bold",
+        "is_24_hour_format": true,
+        "show_seconds": false,
+        "clock_style": "DIGITAL",
+        "horizontal_position": 0.5,
+        "vertical_position": 0.2
+      }
+    },
+    {
+      "id": "minimal_clock",
+      "name": "Minimal Clock",
+      "category": "Minimal",
+      "preview_url": "https://example.com/previews/minimal_clock.jpg",
+      "background_url": "https://example.com/backgrounds/minimal_clock.jpg",
+      "foreground_url": null,
+      "config": {
+        "font_size": 160.0,
+        "font_color": "#FFFFFF",
+        "font_family": "roboto_bold",
+        "is_24_hour_format": true,
+        "show_seconds": false,
+        "clock_style": "MINIMAL",
+        "horizontal_position": 0.5,
+        "vertical_position": 0.3
+      }
+    }
+  ],
+  "categories": [
+    "Digital",
+    "Minimal",
+    "Analog",
+    "Dark",
+    "Colorful"
+  ]
+}
