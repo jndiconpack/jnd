@@ -22,9 +22,9 @@
       "id": "minimal_clock",
       "name": "Minimal Clock",
       "category": "Minimal",
-      "preview_url": "https://example.com/previews/minimal_clock.jpg",
-      "background_url": "https://example.com/backgrounds/minimal_clock.jpg",
-      "foreground_url": null,
+      "preview_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_pr.png",
+      "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_bg.png",
+      "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_fg.png",
       "config": {
         "font_size": 160.0,
         "font_color": "#FFFFFF",
