@@ -35,6 +35,24 @@
         "horizontal_position": 0.5,
         "vertical_position": 0.2
       }
+    },
+    {
+      "id": "minimal_clock",
+      "name": "Minimal Clock",
+      "category": "Minimal",
+      "preview_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_3_pr.png",
+      "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_3_bg.png",
+      "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_3_fg.png",
+      "config": {
+        "font_size": 120.0,
+        "font_color": "#99bdbd",
+        "font_family": "opensans_regular",
+        "is_24_hour_format": true,
+        "show_seconds": false,
+        "clock_style": "MINIMAL",
+        "horizontal_position": 0.5,
+        "vertical_position": 0.25
+      }
     }
   ],
   "categories": [
