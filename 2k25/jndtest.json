@@ -8,9 +8,9 @@
       "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_bg.png",
       "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_fg.png",
       "config": {
-        "font_size": 222.0,
+        "font_size": 140.0,
         "font_color": "#FFFFFF",
-        "font_family": "roboto_bold",
+        "font_family": "opensans_regular",
         "is_24_hour_format": true,
         "show_seconds": false,
         "clock_style": "DIGITAL",
@@ -32,7 +32,7 @@
         "is_24_hour_format": true,
         "show_seconds": false,
         "clock_style": "MINIMAL",
-        "horizontal_position": 0.7,
+        "horizontal_position": 0.5,
         "vertical_position": 0.2
       }
     }
