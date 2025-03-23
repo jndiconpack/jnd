@@ -14,7 +14,7 @@
         "is_24_hour_format": true,
         "show_seconds": false,
         "clock_style": "DIGITAL",
-        "horizontal_position": 0.0,
+        "horizontal_position": 1.0,
         "vertical_position": 0.2
       }
     },
@@ -32,7 +32,7 @@
         "is_24_hour_format": true,
         "show_seconds": false,
         "clock_style": "MINIMAL",
-        "horizontal_position": 1.0,
+        "horizontal_position": 0.5,
         "vertical_position": 0.2
       }
     }
