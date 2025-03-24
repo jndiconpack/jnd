@@ -75,6 +75,25 @@
     "vertical_position": 0.33333334,
     "multi_line_spacing": 0.5
       }
+    },
+    {
+      "id": "dot_separated",
+      "name": "Duck",
+      "category": "Minimal",
+      "preview_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_5_pr.png",
+      "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_5_bg.png",
+      "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_5_fg.png",
+      "config": {
+         "font_size": 400,
+    "font_color": "#FFFFFF",
+    "font_family": "roboto_bold",
+    "is_24_hour_format": false,
+    "show_seconds": false,
+    "clock_style": "HH_MM",
+    "horizontal_position": 0.5,
+    "vertical_position": 0.33333334,
+    "multi_line_spacing": 0.5
+      }
     }
   ],
   "categories": [
