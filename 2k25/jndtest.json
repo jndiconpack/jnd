@@ -8,15 +8,15 @@
       "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_bg.png",
       "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_fg.png",
       "config": {
-        "font_size": 140.0,
-        "font_color": "#FFFFFF",
-        "font_family": "opensans_regular",
-        "is_24_hour_format": true,
-        "show_seconds": false,
-        "clock_style": "HH_MM",
-        "horizontal_position": 0.5,
-        "vertical_position": 0.2,
-        "multi_line_spacing": 0.5
+        "font_size": 400,
+    "font_color": "#FFFFFF",
+    "font_family": "roboto_bold",
+    "is_24_hour_format": false,
+    "show_seconds": false,
+    "clock_style": "HH_MM",
+    "horizontal_position": 0.5,
+    "vertical_position": 0.28571427,
+    "multi_line_spacing": 0.5
       }
     },
     {
@@ -27,15 +27,15 @@
       "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_2_bg.png",
       "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_2_fg.png",
       "config": {
-        "font_size": 160.0,
-        "font_color": "#393939",
-        "font_family": "roboto_bold",
-        "is_24_hour_format": true,
-        "show_seconds": false,
-        "clock_style": "HHMM",
-        "horizontal_position": 0.5,
-        "vertical_position": 0.2,
-        "multi_line_spacing": 0.5
+        "font_size": 381.0526,
+    "font_color": "#393939",
+    "font_family": "opensans_regular",
+    "is_24_hour_format": true,
+    "show_seconds": false,
+    "clock_style": "HHMM",
+    "horizontal_position": 0.47619048,
+    "vertical_position": 0.28571427,
+    "multi_line_spacing": 0.5
       }
     },
     {
@@ -46,15 +46,15 @@
       "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_3_bg.png",
       "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_3_fg.png",
       "config": {
-        "font_size": 120.0,
-        "font_color": "#99bdbd",
-        "font_family": "opensans_regular",
-        "is_24_hour_format": true,
-        "show_seconds": false,
-        "clock_style": "HH_NEWLINE_MM",
-        "horizontal_position": 0.5,
-        "vertical_position": 0.25,
-        "multi_line_spacing": 0.3
+        "font_size": 400,
+    "font_color": "#99BDBD",
+    "font_family": "opensans_regular",
+    "is_24_hour_format": true,
+    "show_seconds": false,
+    "clock_style": "HH_NEWLINE_MM",
+    "horizontal_position": 0.5,
+    "vertical_position": 0.3,
+    "multi_line_spacing": 0.8
       }
     },
     {
@@ -65,15 +65,15 @@
       "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_4_bg.png",
       "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_4_fg.png",
       "config": {
-        "font_size": 140.0,
-        "font_color": "#FFFFFF",
-        "font_family": "montserrat_medium",
-        "is_24_hour_format": true,
-        "show_seconds": false,
-        "clock_style": "HH_DOT_MM",
-        "horizontal_position": 0.5,
-        "vertical_position": 0.3,
-        "multi_line_spacing": 0.5
+        "font_size": 400,
+    "font_color": "#FFFFFF",
+    "font_family": "roboto_bold",
+    "is_24_hour_format": false,
+    "show_seconds": false,
+    "clock_style": "HH_MM",
+    "horizontal_position": 0.5,
+    "vertical_position": 0.28571427,
+    "multi_line_spacing": 0.5
       }
     }
   ],
