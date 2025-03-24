@@ -13,9 +13,10 @@
         "font_family": "opensans_regular",
         "is_24_hour_format": true,
         "show_seconds": false,
-        "clock_style": "DIGITAL",
+        "clock_style": "HH_MM",
         "horizontal_position": 0.5,
-        "vertical_position": 0.2
+        "vertical_position": 0.2,
+        "multi_line_spacing": 0.5
       }
     },
     {
@@ -31,15 +32,16 @@
         "font_family": "roboto_bold",
         "is_24_hour_format": true,
         "show_seconds": false,
-        "clock_style": "MINIMAL",
+        "clock_style": "HHMM",
         "horizontal_position": 0.5,
-        "vertical_position": 0.2
+        "vertical_position": 0.2,
+        "multi_line_spacing": 0.5
       }
     },
     {
-      "id": "minimal_clock",
-      "name": "Minimal Clock",
-      "category": "Minimal",
+      "id": "stacked_clock",
+      "name": "Stacked Clock",
+      "category": "Modern",
       "preview_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_3_pr.png",
       "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_3_bg.png",
       "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_3_fg.png",
@@ -49,16 +51,36 @@
         "font_family": "opensans_regular",
         "is_24_hour_format": true,
         "show_seconds": false,
-        "clock_style": "MINIMAL",
+        "clock_style": "HH_NEWLINE_MM",
         "horizontal_position": 0.5,
-        "vertical_position": 0.25
+        "vertical_position": 0.25,
+        "multi_line_spacing": 0.3
+      }
+    },
+    {
+      "id": "dot_separated",
+      "name": "Dot Separated Clock",
+      "category": "Minimal",
+      "preview_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_4_pr.png",
+      "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_4_bg.png",
+      "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_4_fg.png",
+      "config": {
+        "font_size": 140.0,
+        "font_color": "#FFFFFF",
+        "font_family": "montserrat_medium",
+        "is_24_hour_format": true,
+        "show_seconds": false,
+        "clock_style": "HH_DOT_MM",
+        "horizontal_position": 0.5,
+        "vertical_position": 0.3,
+        "multi_line_spacing": 0.5
       }
     }
   ],
   "categories": [
     "Digital",
     "Minimal",
-    "Analog",
+    "Modern",
     "Dark",
     "Colorful"
   ]
