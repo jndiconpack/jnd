@@ -85,13 +85,13 @@
       "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_5_fg.png",
       "config": {
          "font_size": 400,
-    "font_color": "#FFFFFF",
+    "font_color": "#ffdf30",
     "font_family": "roboto_bold",
     "is_24_hour_format": false,
     "show_seconds": false,
     "clock_style": "HH_MM",
     "horizontal_position": 0.5,
-    "vertical_position": 0.33333334,
+    "vertical_position": 0.35,
     "multi_line_spacing": 0.5
       }
     }
