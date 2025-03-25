@@ -1,7 +1,7 @@
 {
   "wallpapers": [
     {
-      "id": "default_clock",
+      "id": "digital",
       "name": "Clock Wallpaper 2",
       "category": "Digital",
       "preview_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_pr.png",
@@ -20,7 +20,7 @@
       }
     },
     {
-      "id": "minimal_clock",
+      "id": "digital",
       "name": "Minimal Clock",
       "category": "Minimal",
       "preview_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_2_pr.png",
