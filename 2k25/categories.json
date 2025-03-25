@@ -5,32 +5,31 @@
       "name": "Digital",
       "preview_images": [
         "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr1.png",
-        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr1.png",
-        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr1.png",
-        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr1.png",
-        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr1.png"
+        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr2.png",
+        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr3.png",
+        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr4.png",
+        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr5.png"
       ]
     },
     {
       "id": "minimal",
       "name": "Minimal",
       "preview_images": [
-        "https://example.com/minimal_1.png",
-        "https://example.com/minimal_2.png",
-        "https://example.com/minimal_3.png",
-        "https://example.com/minimal_4.png",
-        "https://example.com/minimal_5.png"
+        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr2.png",
+        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr3.png",
+        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr4.png",
+        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr5.png"
       ]
     },
     {
       "id": "modern",
       "name": "Modern",
       "preview_images": [
-        "https://example.com/modern_1.png",
-        "https://example.com/modern_2.png",
-        "https://example.com/modern_3.png",
-        "https://example.com/modern_4.png",
-        "https://example.com/modern_5.png"
+	    "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr3.png",
+        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr4.png",
+        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr1.png",
+        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr2.png",
+        "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/categories/cat1_pr5.png"
       ]
     }
   ]
