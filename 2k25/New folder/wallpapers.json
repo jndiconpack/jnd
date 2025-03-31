@@ -1,0 +1,106 @@
+{
+  "wallpapers": [
+    {
+      "id": "digital",
+      "name": "Clock Wallpaper 2",
+      "category": "Digital",
+      "preview_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_pr.png",
+      "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_bg.png",
+      "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_1_fg.png",
+      "config": {
+        "font_size": 400,
+    "font_color": "#FFFFFF",
+    "font_family": "roboto_bold",
+    "is_24_hour_format": false,
+    "show_seconds": false,
+    "clock_style": "HH_MM",
+    "horizontal_position": 0.5,
+    "vertical_position": 0.28571427,
+    "multi_line_spacing": 0.5
+      }
+    },
+    {
+      "id": "digital",
+      "name": "Minimal Clock",
+      "category": "Minimal",
+      "preview_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_2_pr.png",
+      "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_2_bg.png",
+      "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_2_fg.png",
+      "config": {
+        "font_size": 381.0526,
+    "font_color": "#393939",
+    "font_family": "opensans_regular",
+    "is_24_hour_format": true,
+    "show_seconds": false,
+    "clock_style": "HHMM",
+    "horizontal_position": 0.47619048,
+    "vertical_position": 0.28571427,
+    "multi_line_spacing": 0.5
+      }
+    },
+    {
+      "id": "stacked_clock",
+      "name": "Stacked Clock",
+      "category": "Modern",
+      "preview_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_3_pr.png",
+      "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_3_bg.png",
+      "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_3_fg.png",
+      "config": {
+        "font_size": 400,
+    "font_color": "#99BDBD",
+    "font_family": "opensans_regular",
+    "is_24_hour_format": true,
+    "show_seconds": false,
+    "clock_style": "HH_NEWLINE_MM",
+    "horizontal_position": 0.5,
+    "vertical_position": 0.3,
+    "multi_line_spacing": 0.8
+      }
+    },
+    {
+      "id": "dot_separated",
+      "name": "Dot Separated Clock",
+      "category": "Minimal",
+      "preview_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_4_pr.png",
+      "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_4_bg.png",
+      "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_4_fg.png",
+      "config": {
+         "font_size": 400,
+    "font_color": "#FFFFFF",
+    "font_family": "roboto_bold",
+    "is_24_hour_format": false,
+    "show_seconds": false,
+    "clock_style": "HH_MM",
+    "horizontal_position": 0.5,
+    "vertical_position": 0.33333334,
+    "multi_line_spacing": 0.5
+      }
+    },
+    {
+      "id": "dot_separated",
+      "name": "Duck",
+      "category": "Minimal",
+      "preview_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_5_pr.png",
+      "background_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_5_bg.png",
+      "foreground_url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/wall/wall_5_fg.png",
+      "config": {
+         "font_size": 400,
+    "font_color": "#ffdf30",
+    "font_family": "roboto_bold",
+    "is_24_hour_format": false,
+    "show_seconds": false,
+    "clock_style": "HH_MM",
+    "horizontal_position": 0.5,
+    "vertical_position": 0.35,
+    "multi_line_spacing": 0.5
+      }
+    }
+  ],
+  "categories": [
+    "Digital",
+    "Minimal",
+    "Modern",
+    "Dark",
+    "Colorful"
+  ]
+}
