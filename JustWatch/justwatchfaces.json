@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "NightGlow – Watch Face",
+    "icon": "https://play-lh.googleusercontent.com/u1MbJGjeeC3ur9PqyABPhLbeyXGo3jLL2NAX9jk5pJD0ZHgHE95tXtY2EsBdfwTs2Fw",
+    "shortDesc": "A sleek, glowing analog watch face with a dark theme and futuristic elegance.",
+    "url": "https://play.google.com/store/apps/details?id=com.justwatch.nightglow"
+  },
+  {
+    "id": 2,
+    "name": "Minimal BOLD – Watch Face",
+    "icon": "https://play-lh.googleusercontent.com/-qzePXqPoXNaTgZd8-Yj8_dqJ1upK4CW2RSyznLbyjRQZ8cIix6Fq2lxCN67fdx6CCw",
+    "shortDesc": "",
+    "url": "https://play.google.com/store/apps/details?id=com.justwatch.minimalbold"
+  },
+  {
+    "id": 3,
+    "name": "Glass Watch Face",
+    "icon": "",
+    "shortDesc": "A sleek, glowing analog watch",
+    "url": "https://play.google.com/store/apps/details?id=com.justwatch.glass.watchface"
+  },
+  {
+    "id": 4,
+    "name": "Gamer WatchFace",
+    "icon": "",
+    "shortDesc": "",
+    "url": "https://play.google.com/store/apps/details?id=com.justwatch.gamer.watchface"
+  },
+  {
+    "id": 5,
+    "name": "Ultron Watch Face",
+    "icon": "",
+    "shortDesc": "",
+    "url": "https://play.google.com/store/apps/details?id=com.justwatch.ultron.watchface"
+  },
+  {
+    "id": 6,
+    "name": "Nova: Minimal Watch Face",
+    "icon": "",
+    "shortDesc": "",
+    "url": "https://play.google.com/store/apps/details?id=com.justwatch.nova.watchface"
+  },
+  {
+    "id": 7,
+    "name": "PrimeTime Watch Face",
+    "icon": "",
+    "shortDesc": "",
+    "url": "https://play.google.com/store/apps/details?id=com.justwatch.primetime.watchface"
+  },
+  {
+    "id": 8,
+    "name": "Digitron Watch Face",
+    "icon": "",
+    "shortDesc": "",
+    "url": "https://play.google.com/store/apps/details?id=com.justwatch.digitron.watchface"
+  },
+  {
+    "id": 9,
+    "name": "Vortex – Watch Face",
+    "icon": "",
+    "shortDesc": "Introducing Vortex Watch Face, where time runs like a spiral forever with dynamic rotating rings.",
+    "url": "https://play.google.com/store/apps/details?id=com.justwatch.vortex.creative.watchface"
+  },
+  {
+    "id": 10,
+    "name": "AthletiX Watch Face",
+    "icon": "",
+    "shortDesc": "",
+    "url": "https://play.google.com/store/apps/details?id=com.justwatch.athletix.watchface"
+  }
+]
