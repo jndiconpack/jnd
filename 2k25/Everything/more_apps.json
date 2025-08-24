@@ -1,9 +1,26 @@
 {
   "isEnabled": true,
-  "title": "More Apps & Resources",
+  "title": "More Apps",
   "subtitle": "Discover more apps and useful resources by JustNewDesigns",
   "apps": [
     {
+      "name": "Material Widgets Pro",
+      "packageName": "com.jndapp.material.widgets.pack",
+      "description": "Beautiful Material Design 3 widgets with adaptive colors & expressive design.",
+      "iconUrl": "https://image2url.com/images/1756009603719-ec012492-e173-443c-aef1-0d4244241025.png",
+      "previewImageUrl": "https://image2url.com/images/1756009681804-b2e9c632-e7fb-4e27-a855-30aeaa6f9075.jpg",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jndapp.material.widgets.pack",
+      "category": "Widgets",
+      "type": "app",
+      "categoryColor": "#4CAF50",
+      "isNew": false,
+      "isOnSale": true,
+      "saleEndTime": "2025-08-06T23:59:59Z",
+      "originalPrice": "$3.99",
+      "salePrice": "$0.59",
+      "discountPercentage": 60
+    },
+	{
       "name": "Material Widgets",
       "packageName": "com.jndapp.material.widgets.pack",
       "description": "Beautiful Material Design 3 widgets with adaptive colors & expressive design.",
