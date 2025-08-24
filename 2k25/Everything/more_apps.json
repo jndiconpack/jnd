@@ -1,0 +1,72 @@
+{
+  "isEnabled": true,
+  "title": "More Apps",
+  "subtitle": "Discover more apps by JustNewDesigns",
+  "apps": [
+    {
+      "name": "Material Widgets",
+      "packageName": "com.jndapp.material.widgets.pack",
+      "description": "Beautiful Material Design 3 widgets with adaptive colors & expressive design for your home screen.",
+      "iconUrl": "https://image2url.com/images/1756009603719-ec012492-e173-443c-aef1-0d4244241025.png",
+      "previewImageUrl": "https://image2url.com/images/1756009681804-b2e9c632-e7fb-4e27-a855-30aeaa6f9075.jpg",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jndapp.material.widgets.pack",
+      "category": "Widgets",
+      "categoryColor": "#4CAF50",
+      "isNew": true,
+      "rating": 4.8,
+      "downloadsText": "10K+"
+    },
+    {
+      "name": "Pixel Icons",
+      "packageName": "com.jndapp.pixel.icons",
+      "description": "Premium icon pack inspired by Google Pixel design language with hundreds of icons.",
+      "iconUrl": "https://play-lh.googleusercontent.com/example-icon-2.png",
+      "previewImageUrl": "https://play-lh.googleusercontent.com/example-preview-2.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jndapp.pixel.icons",
+      "category": "Icons",
+      "categoryColor": "#2196F3",
+      "isNew": false,
+      "rating": 4.6,
+      "downloadsText": "50K+"
+    },
+    {
+      "name": "Nothing Wallpapers",
+      "packageName": "com.jndapp.nothing.wallpapers",
+      "description": "Exclusive wallpaper collection featuring Nothing's signature transparent aesthetic.",
+      "iconUrl": "https://play-lh.googleusercontent.com/example-icon-3.png",
+      "previewImageUrl": "https://play-lh.googleusercontent.com/example-preview-3.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jndapp.nothing.wallpapers",
+      "category": "Wallpapers",
+      "categoryColor": "#FF9800",
+      "isNew": false,
+      "rating": 4.7,
+      "downloadsText": "25K+"
+    },
+    {
+      "name": "Live Weather",
+      "packageName": "com.jndapp.live.weather",
+      "description": "Real-time weather updates with stunning animations and accurate forecasts.",
+      "iconUrl": "https://play-lh.googleusercontent.com/example-icon-4.png",
+      "previewImageUrl": "https://play-lh.googleusercontent.com/example-preview-4.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jndapp.live.weather",
+      "category": "Weather",
+      "categoryColor": "#9C27B0",
+      "isNew": true,
+      "rating": 4.5,
+      "downloadsText": "5K+"
+    },
+    {
+      "name": "Smart Calculator",
+      "packageName": "com.jndapp.smart.calculator",
+      "description": "Advanced calculator with unit conversions, scientific functions, and beautiful design.",
+      "iconUrl": "https://play-lh.googleusercontent.com/example-icon-5.png",
+      "previewImageUrl": "https://play-lh.googleusercontent.com/example-preview-5.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jndapp.smart.calculator",
+      "category": "Tools",
+      "categoryColor": "#F44336",
+      "isNew": false,
+      "rating": 4.4,
+      "downloadsText": "100K+"
+    }
+  ]
+}
