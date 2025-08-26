@@ -21,7 +21,7 @@
 {
       "name": "OneUI Widgets",
       "packageName": "com.jndapp.oneui.widgets.pack",
-      "description": "Beautiful Material Design 3 widgets with adaptive colors & expressive design.",
+      "description": "Over 250 OneUI-style widgets, featuring stunning colors and precise design.",
       "iconUrl": "https://play-lh.googleusercontent.com/eoJ5ai-O0xbFPOgQS-97wIJ1Jb-aNvTHcqi7rnBH4AXpAbSl_5ii44BebhoGzAHxBtI=s0?imgmax=0",
       "previewImageUrl": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/Everything/oneui.png",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jndapp.oneui.widgets.pack",
@@ -45,12 +45,12 @@
 {
       "name": "Dots Live Wallpaper",
       "packageName": "com.jnd.nothing.live.wallpaper",
-      "description": "(Coming Soon) Transform your device's battery indicator into an elegant grid of animated dots with Battery Live Wallpaper.",
-      "iconUrl": "https://play-lh.googleusercontent.com/sK1OQ-cqzRC86FcGS7SXPCMR45ExKxS6fi4TZfmepcTQjFxMP_SUm2B6lXB-6YVruA=s0?imgmax=0",
+      "description": "Transform your device's battery indicator into an elegant grid of animated dots with Battery Live Wallpaper.",
+      "previewImageUrl": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/Everything/dotslive.png",
       "previewImageUrl": "https://image2url.com/images/1756009681804-b2e9c632-e7fb-4e27-a855-30aeaa6f9075.jpg",
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jndapp.material.widgets.pack",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jnd.nothing.live.wallpaper",
       "category": "Live Wallpaper",
-      "type": "app",
+      "type": "Coming Soon",
       "categoryColor": "#4CAF50",
       "isNew": true
     },
