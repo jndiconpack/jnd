@@ -1,7 +1,7 @@
 {
-    "isEnabled": false,
-    "title": "Welcome Offer",
-    "subtitle": "Giving Away a Premium App as a Welcome Treat!",
+    "isEnabled": true,
+    "title": "Early Bird Offer",
+    "subtitle": "Giving Away a Premium App & Custom Image Edits as a Welcome Treat!",
     "description": "As a special welcome gift, we’re giving you a premium icon pack of your choice—completely free! Enhance your setup with stunning icons, perfectly complementing your widget pack. Don’t miss out—claim your gift now!",
-    "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc4Lx3D2BvNMGjeFLvH71h8Mo7nud3h601cnb83T_GelLqiFw/viewform?usp=dialog"
+    "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSchzQaqt17dun-l1Rqrtx_khrz2Ym9O4IP58Ykj9zL74DnKAw/viewform?usp=dialog"
 }
