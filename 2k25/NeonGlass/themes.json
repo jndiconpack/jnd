@@ -1,37 +1,39 @@
 {
   "themes": [
     {
-      "name": "Neon Matrix",
+      "name": "Pure Glass",
       "description": "Matrix green on deep black with electric contrast",
-      "url": "https://i.imgur.com/u81NHcX.jpeg",
-      "thumbnail": "https://i.imgur.com/u81NHcX.jpeg",
-      "accentColor": "#00FF41",
-      "backgroundColor": "#0A0A0A",
-      "opacity": 1.0,
-      "adaptiveTextColorMode": "STANDARD",
-      "collections": ["Neon", "Dark", "Cyberpunk"]
+      "url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/01W.png",
+      "thumbnail": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/01.png",
+      "accentColor": "#FFFFFF",
+      "backgroundColor": "#FFFFFF",
+      "opacity": 0.4,
+      "adaptiveTextColorMode": "ALWAYS_WHITE",
+      "collections": ["Glass", "Light"]
     },
     {
-      "name": "Pastel Dream",
+      "name": "Dark Red Glass",
       "description": "Soft pastel colors for a gentle aesthetic",
-      "url": "https://i.imgur.com/TlaZeGg.png",
-      "thumbnail": "https://i.imgur.com/TlaZeGgh.png",
-      "accentColor": "#AD1457",
-      "backgroundColor": "#FCE4EC",
+      "url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/02W.png",
+      "thumbnail": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/02.png",
+      "accentColor": "#fa1f1f",
+      "backgroundColor": "#000000",
       "opacity": 0.85,
       "adaptiveTextColorMode": "STANDARD",
-      "collections": ["Pastel", "Light", "Soft"]
+      "collections": ["Dark"]
     },
     {
-      "name": "Glass Effect",
+      "name": "Purple Magic",
       "description": "Frosted glass appearance with transparency",
-      "url": "https://i.imgur.com/HKaNpgN.png",
-    "thumbnail": "https://i.imgur.com/HKaNpgNh.png",
-      "accentColor": "#FFFFFF",
-      "backgroundColor": "#000000",
-      "opacity": 0.5,
-      "adaptiveTextColorMode": "ALWAYS_WHITE",
-      "collections": ["Glass", "Dark", "Transparent"]
+      "url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/02W.png",
+      "thumbnail": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/02.png",
+      "accentColor": "#ff039e",
+      "backgroundColor": "#7600dd",
+      "opacity": 1.0,
+      "adaptiveTextColorMode": "STANDARD",
+      "collections": ["Dark"]
     }
   ]
 }
+
+
