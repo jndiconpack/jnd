@@ -1,0 +1,37 @@
+{
+  "themes": [
+    {
+      "name": "Neon Matrix",
+      "description": "Matrix green on deep black with electric contrast",
+      "url": "https://i.imgur.com/u81NHcX.jpeg",
+      "thumbnail": "https://i.imgur.com/u81NHcX.jpeg",
+      "accentColor": "#00FF41",
+      "backgroundColor": "#0A0A0A",
+      "opacity": 1.0,
+      "adaptiveTextColorMode": "STANDARD",
+      "collections": ["Neon", "Dark", "Cyberpunk"]
+    },
+    {
+      "name": "Pastel Dream",
+      "description": "Soft pastel colors for a gentle aesthetic",
+      "url": "https://i.imgur.com/TlaZeGg.png",
+      "thumbnail": "https://i.imgur.com/TlaZeGgh.png",
+      "accentColor": "#AD1457",
+      "backgroundColor": "#FCE4EC",
+      "opacity": 0.85,
+      "adaptiveTextColorMode": "STANDARD",
+      "collections": ["Pastel", "Light", "Soft"]
+    },
+    {
+      "name": "Glass Effect",
+      "description": "Frosted glass appearance with transparency",
+      "url": "https://i.imgur.com/HKaNpgN.png",
+    "thumbnail": "https://i.imgur.com/HKaNpgNh.png",
+      "accentColor": "#FFFFFF",
+      "backgroundColor": "#000000",
+      "opacity": 0.5,
+      "adaptiveTextColorMode": "ALWAYS_WHITE",
+      "collections": ["Glass", "Dark", "Transparent"]
+    }
+  ]
+}
