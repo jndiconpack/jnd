@@ -17,7 +17,7 @@
       "url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/02W.jpg",
       "thumbnail": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/02.png",
       "accentColor": "#fa1f1f",
-      "backgroundColor": "#5e5e5e",
+      "backgroundColor": "#2b2c32",
       "opacity": 0.85,
       "adaptiveTextColorMode": "STANDARD",
       "collections": ["Dark"]
@@ -29,6 +29,17 @@
       "thumbnail": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/03.png",
       "accentColor": "#ff039e",
       "backgroundColor": "#7600dd",
+      "opacity": 1.0,
+      "adaptiveTextColorMode": "STANDARD",
+      "collections": ["Dark"]
+    },
+    {
+      "name": "Black Beauty",
+      "description": "Beautiful Black Glass Theme with Glass Background",
+      "url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/04W.png",
+      "thumbnail": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/04.png",
+      "accentColor": "#ffffff",
+      "backgroundColor": "#000000",
       "opacity": 1.0,
       "adaptiveTextColorMode": "STANDARD",
       "collections": ["Dark"]
