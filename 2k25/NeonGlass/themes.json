@@ -17,7 +17,7 @@
       "url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/02W.jpg",
       "thumbnail": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/02.png",
       "accentColor": "#fa1f1f",
-      "backgroundColor": "#000000",
+      "backgroundColor": "#5e5e5e",
       "opacity": 0.85,
       "adaptiveTextColorMode": "STANDARD",
       "collections": ["Dark"]
@@ -25,7 +25,7 @@
     {
       "name": "Purple Magic",
       "description": "Frosted glass appearance with transparency",
-      "url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/03W.jpg",
+      "url": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/03W.png",
       "thumbnail": "https://raw.githubusercontent.com/jndiconpack/jnd/refs/heads/master/2k25/NeonGlass/T/03.png",
       "accentColor": "#ff039e",
       "backgroundColor": "#7600dd",
