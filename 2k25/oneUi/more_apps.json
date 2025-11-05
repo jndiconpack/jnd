@@ -4,6 +4,22 @@
   "subtitle": "Discover more apps and useful resources by JustNewDesigns",
   "apps": [
     {
+      "name": "Neon Glass Widgets",
+      "packageName": "com.jndapp.neon.glass.pack",
+      "description": "360+ Fully Customisable Widgets. With Editable Background and Accent Color.",
+      "iconUrl": "https://play-lh.googleusercontent.com/2npqNjChpqYmUDUbWbSX-Jio8tTFNfYQ8l_Ep4fI__-HrSZVbeXWqYT-DhnkgFA4eUtOIgEFesEzbEmNd4szzA=s0?imgmax=0",
+      "previewImageUrl": "https://play-lh.googleusercontent.com/5W3WpoyUTS_DSSeBPLgFXnBW4jMFv1r5UcD8vpp-1wXASy5FuQt6G5X68ZhfvnQAN88n1hCDHMOVy4MxFggXaQ=s0?imgmax=0",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jndapp.neon.glass.pack",
+      "category": "Widgets",
+      "type": "app",
+      "categoryColor": "#4CAF50",
+      "isNew": false,
+      "isOnSale": true,
+      "saleEndTime": "2025-10-22T23:59:59Z",
+      "discountPercentage": 90
+    },  
+    
+    {
       "name": "Material Widgets",
       "packageName": "com.jndapp.material.widgets.pack",
       "description": "Check it out Everything Widgets with Google Material Colors",
