@@ -8,7 +8,7 @@
       "https://play-lh.googleusercontent.com/4R7STwqDJYq_jag3COqrAVOYjCAmvp8j-oyFvaQciGfuTLhUyKXPYQe3Ep3TqJKn1jrL8N_onb28fkHmTbSHSQ=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": true
   },
   {
@@ -67,7 +67,7 @@
     ],
     "featured": false,
     "isNew": false,
-    "isFree": false
+    "isFree": true
   },
   {
     "name": "Arrow Escape Puzzle Game",
@@ -90,7 +90,7 @@
       "https://play-lh.googleusercontent.com/uPS2DmokB7QTufkwQATimO2qDnhyLpLfHeIWOMZ5H8zzOZlQBl-e2Anib4lNBBfeH62XMkLvhVVzY9binM5U6Q=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": true
   },
   {
@@ -102,43 +102,40 @@
       "https://play-lh.googleusercontent.com/JmG9-c02qUgUmdF01q5FLOIkIDGsPuwkY8n7T8FaYvGZ3D6mw_dTTyYfoK5sWAYogRBLVDVfZT7jqt3b0oHRUA8=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": true
   },
   {
     "name": "Dove Icon Pack",
     "category": "Icons",
-    "description": "Check out Dove Icon Pack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.dove.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/cSNgL7di_VbLQUZwHIkx9VZitA6jYrJHWa5OxaOn8VY8C9SIsXJYCIGBaun35XkUx1WJ=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "LineX PinkLine",
     "category": "Icons",
-    "description": "Check out LineX PinkLine on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.pinkline.linex.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/Eg2rhQUCIHcPAKSUAEI-rvcpKo0c6XDq--u41KGFR9vw5_u96oSNxZAauAwlExeypw=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "LineX PurpleLine",
     "category": "Icons",
-    "description": "Check out LineX PurpleLine on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.purpleline.linex.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/jPmz_CX6qYXE0vKFtBWIqY9OfSnMqQj3aZArSq5eDv259_2XU0xGuflzy8iewpAl-v8=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -149,7 +146,7 @@
       "https://play-lh.googleusercontent.com/wPURTp8EBZTHBZGcJH_0Xo4Dcc4xaOpmLjGOe1chuFPEcJTPrObXXUNhrLxlCD3bbrE=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -160,7 +157,7 @@
       "https://play-lh.googleusercontent.com/eWNOeMq5jt-QyKuJbS74agc_bzuNlnJlJbpLXio_gIKfyNENbhrcGQ0cXfNjCptjQR8=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -171,7 +168,7 @@
       "https://play-lh.googleusercontent.com/7fZmifPPQ0YED2LmHdxMyuS9tJtx6Us2XE5mnPbUX_8wHAROlWV3PsmepWZuAm17KcY=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -182,7 +179,7 @@
       "https://play-lh.googleusercontent.com/VsI2yj79p03wyVeoqtCVE_L5qTsVXZP8QePnO-cEPnBiuoMgZkOFsXvPqr6KyIGxaY8=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -193,7 +190,7 @@
       "https://play-lh.googleusercontent.com/21HdTss-Jl45Kv1rAXVu21Cty_KGHpK93_y_3mqbOsNUmbDKXSELjFirQNUBfDVJzR0=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -204,7 +201,7 @@
       "https://play-lh.googleusercontent.com/8itmGYxdoOvRAaV_ti6rxIYGbneVu9gqMQ2TeQ99r0rHs989bLhdQZFFiApVJsZxdA=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -215,7 +212,7 @@
       "https://play-lh.googleusercontent.com/0ahulkGRgR5Cgtlo3fhQ9TD97_nNFDkujumRGjKJFRL5aKEMTCS26SuLCfdE2f9gabQ=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -226,7 +223,7 @@
       "https://play-lh.googleusercontent.com/uGXOY-WUT1VtEDeqiDtWDloF_l6r8AImFYP_hKuZfICLW7E8MDfU83aM2AWdn4R8qJs=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -237,7 +234,7 @@
       "https://play-lh.googleusercontent.com/W4fYq4gmlttPTvypjkk1CGXawJGC6E2KbMes1Oi3XlioAS4-KsdTJ1umW9VM-V4dHQ=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -248,7 +245,7 @@
       "https://play-lh.googleusercontent.com/7b29EB_vcdJGMFvwbZfA2vk5LtbYKunH4-dbSD5O6xmX0ILjpbGR8QNVCDvecXc1zh5-=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -259,7 +256,7 @@
       "https://play-lh.googleusercontent.com/5AfqgRAkAttzs2nABdGIb5rwcdph8KkEkE72a_naBsvmqcbEznMJPTnk0UF8YUK01fc=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -270,7 +267,7 @@
       "https://play-lh.googleusercontent.com/TZiDB4ZgxtRTRc0wSVWocsu0q4DJil9iJ4i21KJPzrtk7mwOsD00Mf8phHSQBz8W348=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -281,7 +278,7 @@
       "https://play-lh.googleusercontent.com/0NHndntpzCX6cXJjjTyJJf8HrIcgpa51JjcdZW6edkiTWHugKGUaJhqbRU8Px1-BOss=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -292,7 +289,7 @@
       "https://play-lh.googleusercontent.com/LPGbRCjFSiEjHl9HsNobnAITQBNfPzYZfWh1Rs-rgHgL-pSYWqFd-wTPFIwIpJBlAg=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -303,7 +300,7 @@
       "https://play-lh.googleusercontent.com/77Jdlshwq6Llr_oOh4zUvTyyHADHIkwxWQnLg-z0R-j2skir4qNcLoIc9ytoxFVOZzs=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -314,7 +311,7 @@
       "https://play-lh.googleusercontent.com/_exN7ykOZFdWknUzj0gICT9FXOWi1M-7JazA8WhPrZkEiWJwnNhX7T2W7gcIgg1u9Ug=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -325,7 +322,7 @@
       "https://play-lh.googleusercontent.com/woOAYrL7_Sc0UvdTwi50b9prtlOcVtV7LwmCjoTkzas9rz9ANvTXa48DdSkDGlaT8Ho=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -336,7 +333,7 @@
       "https://play-lh.googleusercontent.com/a2j7c7lNXPJmAGCmxwYsfcd9xC7aoficsei71El60PDTTQRHn7vJpc4hOjaV_e4OYbDf=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -347,7 +344,7 @@
       "https://play-lh.googleusercontent.com/ANSMi6uqciDcNhcx6LPsnbcl9H5Ch9TeB3jgCFOhm7HnYzUaw8ujbbVHF3PHlTJ7048=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -358,7 +355,7 @@
       "https://play-lh.googleusercontent.com/SR-6OMn46AvmPFfkYPCgejSm79nRsguhVrZ1DKi6pCB7NUNUX_FJYyM0kUEDUK6ERS8=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -369,7 +366,7 @@
       "https://play-lh.googleusercontent.com/PRSgY4VXQSnVddTL78K63hSyC87kan7HNcaAd05cfOFjOY6dU_EV23gVdiw_QuggYA=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -380,7 +377,7 @@
       "https://play-lh.googleusercontent.com/DIJWxssvGwhiF7ge8i4CNeDqTklyU1WOYAaunNR7GzlvtRiAQJTJ1noLFPnZrTyvnw=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -427,8 +424,8 @@
       "https://play-lh.googleusercontent.com/MqR3Yplu75VB4Jg1vEwNznaaeIZS7aGwFXH89xY2dpn86yaazObk370DqLEwACIevA=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
-    "isFree": false
+    "isNew": false,
+    "isFree": true
   },
   {
     "name": "LineX White Iconpack",
@@ -438,7 +435,7 @@
       "https://play-lh.googleusercontent.com/G6yMeEoj9Ob0LQ9LrZgaPq-lyHOTFm9nI3OtaC9ua-m1PIcnAX3cZ8KxFk0TUqYjesj6=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -449,7 +446,7 @@
       "https://play-lh.googleusercontent.com/IO6DBHOxaQ00nqfanCg3nHnMNQiosS3VF_AMy80cHwbTY3yCKZJ0Aru117D6N4_D4ws=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -460,7 +457,7 @@
       "https://play-lh.googleusercontent.com/XpPjDX1vuETlTyJ_JS7wNhqz3Gf2y1HVzMrc0AodWI3x3UUwcG6y-r-ql8OOUJbBtBSN=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -471,7 +468,7 @@
       "https://play-lh.googleusercontent.com/-PxY_M7juZ_cDL7TUCbBMc6spEwzDzydpp_VYgNpRqOkBG6WMBaiPyzA338yoLknOw=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -482,7 +479,7 @@
       "https://play-lh.googleusercontent.com/aP763VGIfUzR_Yc53adddqQOOv1ANKUNAEo54sy6z_psIFALRju5B-bQxcB3KKFBIolT=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -493,7 +490,7 @@
       "https://play-lh.googleusercontent.com/8JB5IgTkZJ6UK1IW6u4NSIdm2bq6guuYL44VZNzNWlDKAqd4JnFjwtqZ9boHRwWbAZei=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -504,7 +501,7 @@
       "https://play-lh.googleusercontent.com/NEQygvXRKGYNUMFVjKydhzvEQYo1XxpfszvTjm1PP5pEAF73X5t7NrnVFmOnQaO1KJ-T=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -515,7 +512,7 @@
       "https://play-lh.googleusercontent.com/SwmJz4EE2UKQHbICwuOBPmwBnqsLBrjPtw7LTKGjwbv7krRW7cOMiJdPAcHl5nKtYGI=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -526,7 +523,7 @@
       "https://play-lh.googleusercontent.com/9hDHzDwKdkxZbq1xffXAzo-r_1IdxBiIh5n-VrdIr1BotJOmnbqFLPVPpWQ80A31Wg=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -537,7 +534,7 @@
       "https://play-lh.googleusercontent.com/Xl3aEOEZSSxacJZDjufN0x92iaB4PTaV0tozEVfsEM8T2svWG8hjawi_KO7q6bVYUrWp=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -548,7 +545,7 @@
       "https://play-lh.googleusercontent.com/e6LzIv0Vx1836xkpiORDC7v87c0K1Y35Ftoz66YorQvTxhew8uo1EQwFEMOdsLVAxvNr=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -559,7 +556,7 @@
       "https://play-lh.googleusercontent.com/XHRvhgXCy8Nn7NzWfDE9cv6K0ykxF4YMKVibeGawa0KaLIsPBE-iHD7hV79at86WBTM=s256-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -570,7 +567,7 @@
       "https://play-lh.googleusercontent.com/kOlWkwqfPTYuKmkQyY15dC0mBULhW-o6EEww7bYBPiXP79GaRfBDL3SNHhQpohDdcQ=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -581,7 +578,7 @@
       "https://play-lh.googleusercontent.com/zi6o662tGe2AARl9QTNBu3TZCnL5c89FeqSWtcj159AXadSE75i_afU8TUW91TZEGrs=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -592,7 +589,7 @@
       "https://play-lh.googleusercontent.com/x_443Cw28s-fer-sUgDNBvBjquswsR4Vvju-N06LmD5nCBoYg7cmKyAUmwfcm96EYQ=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -603,7 +600,7 @@
       "https://play-lh.googleusercontent.com/7m_75kCK-KeI_bn5qp8aiRumDuAh4A2Vcc1FSWrOsh-IvEdws2vaUbTlGSzoeUR4BG0T=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -614,7 +611,7 @@
       "https://play-lh.googleusercontent.com/4sx8WxdGWOcNcaAj5TYQHvwN882_yWhntuCVtlPUx8AMNnb3CFzOjVSCzcaS3ZOBchU=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
@@ -625,235 +622,216 @@
       "https://play-lh.googleusercontent.com/KIn74I3RM0rVUX5wDYyR7mV5qtVTIo4XjsusrkZUw6smI5XRfKwmp7MzXFtkVhL8XA=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "Simplicon Icon Pack",
     "category": "Icons",
-    "description": "Check out Simplicon Icon Pack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.iconpack.simplicon",
     "images": [
       "https://play-lh.googleusercontent.com/l8qhFNXDyzx6HicC8-RUJys9o5kHz9ODqZFYqOUAW5u6yXQagh9OF6BTWg1eZIFo7As=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "MIUI Icon Pack",
     "category": "Icons",
-    "description": "Check out MIUI Icon Pack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.pro.miui9.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/Sj9yMVukdk97g2_bW8EGMSDqaMABUcXtN3fH2QG3Sxlj5YlY5sOLn2HYxUTVxo2Vymk=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "Bolt Icon Pack",
     "category": "Icons",
-    "description": "Check out Bolt Icon Pack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.circle.bolt.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/Kmf91D4ZK3KsGWbBaiRYyLzTWD9xT2DOZ6jTAMsCFF3p63q8GchZPMCMTV3N1EMDShI=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "Lux Icon Pack Pro",
     "category": "Icons",
-    "description": "LuX is an icon pack that delivers darker icons in combine with Saturated Colors Depending on the original app icon. and best thing is its goes with both Dark and Light setups.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.lux.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/RSMBJYW04ezR0_XnPpgQTrm2Gox4KW4NBSHcRflSB9LgWkpcnaMDhBXYZlzJfgGhGA=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "One UI - Icon Pack",
     "category": "Icons",
-    "description": "Check out One UI - Icon Pack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.alphaone.oneui.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/A4IaOxCjHMqIcQQkWI1YmXtHRn8veSmKQ-1fa26JLz6dgbWtdHbcKRlt8t8IUU3pfMA=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "Beeline Icon Pack",
     "category": "Icons",
-    "description": "Check out Beeline Icon Pack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.alphaone.beeline.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/v663oJnXhf85TLDkjpcoFx9s0IUDmgLL3y-TeJQekOskoUjWVgxYJ8l5McUQtgjl3LA=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "RedLine Icon Pack : BeeLine",
     "category": "Icons",
-    "description": "Check out RedLine Icon Pack : BeeLine on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.alphaone.redline.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/MThFv4Ybj0ylSby7e344nen2errkMCObtFA_KOzWh6YsD8n_NFcPTOx5gMpfk_dXE-U=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "Lotus Icon Pack",
     "category": "Icons",
-    "description": "Check out Lotus Icon Pack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.lotus.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/aYjH3-FD0IEAKaGy_yhLcH1PKjFccwtRBqqFrXpw_kzqXDAk0uSIXyde7C2Y-YklDA=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "iLOOK Iconpack",
     "category": "Icons",
-    "description": "Check out iLOOK Iconpack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.apple.ilook.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/Oyiv7N4klC6ipU4ilPt6PrVck_aGe5fTvU2gRxZWNb8AuavOp_MeUiNfL2Syf9rcAUo=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "Pixel Pie Icon Pack",
     "category": "Icons",
-    "description": "Check out Pixel Pie Icon Pack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.pixel.pie.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/DQ9wpccASKq_1CmpYCT-1nTKQfbHcw7lkrHKwz5JIxhrmbAbibVUM_CKv-h2aKIt_Gc=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "Pixel Pie Dark IconPack",
     "category": "Icons",
-    "description": "Check out Pixel Pie Dark IconPack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.pixel.pie.dark.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/BJDKXHcd_dUYH3SkgMR46ygg_DDOaa4Bu5nLTlUoMwtZjGY2zQqSv9B5uFk6LM_Tuc-2=w240-h480-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "Bloom Icon Pack",
     "category": "Icons",
-    "description": "Check out Bloom Icon Pack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.bloom.circle.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/o4w1-UZiEmZZrjIUQ-qp7cVPDbTJGDxL8eCCjUCp_YnI-s34jTI7nD9iRsL1I2q8aw=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "LineX IconPack",
     "category": "Icons",
-    "description": "Check out LineX IconPack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.line.x.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/bo4tv-3nfwKeenynOwRsvPuXj5W19XWlWjhAL_4l_Xb_neLX6Rp7fjk_aBrEUpLEIoY=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "LineX : RedLine Icon Pack",
     "category": "Icons",
-    "description": "Check out LineX : RedLine Icon Pack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.redline.linex.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/KR6nn06y3IFd4k_BjzySb43TF8RyN-1dz_HQYX_k_OcMf_sTnOmtOtg5CYSfsCHPFWBP=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "LineX SkyLine Iconpack",
     "category": "Icons",
-    "description": "Check out LineX SkyLine Iconpack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.skyline.linex.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/PgE4rQdMxx-tpfw4jeR2acfBC8Lw8puqmI80pY0LQO0gm5pUI8akkZCC8VCsahhb7d8=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "Crayon IconPack",
     "category": "Icons",
-    "description": "Check out Crayon IconPack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/St19xtKAsYB9g-MBGtnVfJ3XYrm-AsnDKNwVLqfBkm4tX8wcSvniO7BbLFvM66EEHA=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "LineX Green Icon Pack",
     "category": "Icons",
-    "description": "Check out LineX Green Icon Pack on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.greenline.linex.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/t8Uqhcc99aYEA7FMWA-NihMy7zpD7CUDmoOkTwlQEIZTo4P33mpk3AbG9wC8V87oRA=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "LineX Lineon",
     "category": "Icons",
-    "description": "Check out LineX Lineon on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.line.neon.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/6mUcICYh1Ote4BGCiSh4ZLsj4allNL1Ghw6ZKXGBKky-JcpcCMGKpJYuP19cU25tLwQ=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   },
   {
     "name": "Dove Dark",
     "category": "Icons",
-    "description": "Check out Dove Dark on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.dove.dark.iconpack",
     "images": [
       "https://play-lh.googleusercontent.com/5oJUW7GxkhvNDmy4x-S4uyPp0dlEQLTuvOpCNtU-KBzdoAl27zBsEuJH2YP7w_LQXuk=w2560-h1440-rw"
     ],
     "featured": false,
-    "isNew": true,
+    "isNew": false,
     "isFree": false
   }
 ]
