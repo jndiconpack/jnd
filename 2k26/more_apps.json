@@ -2,7 +2,6 @@
   {
     "name": "Minimal Widgets",
     "category": "Widgets",
-    "description": "A collection of beautiful minimal widgets for home screen customization.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.minimal.widgets",
     "images": [
       "https://play-lh.googleusercontent.com/4R7STwqDJYq_jag3COqrAVOYjCAmvp8j-oyFvaQciGfuTLhUyKXPYQe3Ep3TqJKn1jrL8N_onb28fkHmTbSHSQ=w2560-h1440-rw"
@@ -12,9 +11,8 @@
     "isFree": true
   },
   {
-    "name": "iWidgets",
+    "name": "iWidgets - iOS",
     "category": "Widgets",
-    "description": "iOS Inspired Widgets",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.i.widgets.pack",
     "images": [
       "https://play-lh.googleusercontent.com/m6qaeHfRogXAOfEY8ghzR8WZWYX-mpvyieI8H7Ol37z9a2SVsCfr3yP902knYxoL98tp_BZe7ilZU-pRTQ3Y8g=w2560-h1440-rw",
@@ -30,7 +28,6 @@
   {
     "name": "Everything Widgets",
     "category": "Widgets",
-    "description": "Widgets Inspired by Nothing Device",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.nothing.widgets.pack&hl=en_IN",
     "images": [
       "https://play-lh.googleusercontent.com/QwCc-YMr52KPXqFXKjAkWfReMP76iAdT9N3hFYxvkZBSrOpvWxMzkUKgcQqL3r5Je-TvpTg7pwmwMlfQ6LIOEQ=w2560-h1440-rw",
@@ -44,7 +41,6 @@
   {
     "name": "Glass Widgets Pro",
     "category": "Widgets",
-    "description": "Beautiful translucent glassmorphism widgets with dynamic lighting.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.neon.glass.pack",
     "images": [
       "https://play-lh.googleusercontent.com/03wfcBSdVz9nspG5-33Ux6DoRJRD3OoMnfEQsJe-kXMhQ3NGBFObIT_UmRaGNlbOqRUmPi5FeXxzm3yLQ8h11g=w2560-h1440-rw",
@@ -60,10 +56,9 @@
   {
     "name": "OneUI Widgets",
     "category": "Widgets",
-    "description": "Check out OneUI Widgets on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.oneui.widgets.pack",
     "images": [
-      "https://play-lh.googleusercontent.com/YAyzu_kYJKcUDhHrK7eQb3PpPgPb767_s4meuN7P1AOX2HgiMLNSN4jeZGzKQnmnhm4=w2560-h1440-rw"
+      "https://play-lh.googleusercontent.com/Ak2hD9nNYBYxEbV-JcU2le8SG8sxmeQeULRa5pAi8naUXiHsBqhMvpIzr4c2DEYWjaPI6lqRKq9LpUGcbKfpqQ=w2560-h1440-rw"
     ],
     "featured": false,
     "isNew": false,
@@ -72,10 +67,12 @@
   {
     "name": "Material Widgets : Everything",
     "category": "Widgets",
-    "description": "Check out Material Widgets : Everything on the Play Store.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.material.widgets.pack",
     "images": [
-      "https://play-lh.googleusercontent.com/TobmRr5BFGiBN7kBly6jE8Kk9PqYxbi7aOI2gZZUgykzwHOGPBpZhJ8nXL8sn1LX_WuUzloJPHVd5NGnlzZQVQ=w2560-h1440-rw"
+      "https://play-lh.googleusercontent.com/VobIHs9HlhDsa0gKyQ1f8AiAzGNntknXngchOSJgMI446Qji91SAb60JW3w312tjrHftxEH25699R8KL-tIIfkI=w2560-h1440-rw",
+      "https://play-lh.googleusercontent.com/dgfQbCQXRLyacr-Tlh_KGf9xB4FYNsOtfOAofHoimzraTPa-LY-HWBnM57JXjL2OW5NuU46yZMotebb2151PSUI=w2560-h1440-rw",
+      "https://play-lh.googleusercontent.com/wg6Tdc71_jL28MoC089Fv9535mA1iGE4Zs-weukzPDVGBaQ5r7Q2ON51DWg_npO3qFeGe6pQony6Cef-SF8Mcw=w2560-h1440-rw",
+      "https://play-lh.googleusercontent.com/0j1nXLeWHSFIg9OH7rUPTELl3RNcs_riCxwEip8bYzwVdDbQLFGtsYazVGzZF3wpD_yTIBD7JbrxGcZHSTg46bE=w2560-h1440-rw"
     ],
     "featured": false,
     "isNew": false,
