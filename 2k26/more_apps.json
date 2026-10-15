@@ -1,16 +1,5 @@
 [
   {
-    "name": "Everything Widgets",
-    "category": "Widgets",
-    "description": "Widgets Inspired by Nothing Device",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.nothing.widgets.pack&hl=en_IN",
-    "images": [
-      "https://play-lh.googleusercontent.com/QwCc-YMr52KPXqFXKjAkWfReMP76iAdT9N3hFYxvkZBSrOpvWxMzkUKgcQqL3r5Je-TvpTg7pwmwMlfQ6LIOEQ=w2560-h1440-rw",
-      "https://play-lh.googleusercontent.com/bDaIX03_AAyB6FHTNZF_tcLfrTwcyQAzttXJmGEeXW2SMRU2b9OOQ3sBBUYIt43CCVGRsMH9iph89HXq_ackDA=w2560-h1440-rw",
-      "https://play-lh.googleusercontent.com/0-IzYASc-oAEy0uDx9Dfpeuv4su6bwyV6GenBaX17750AQiV4DAHUayUyPBZYV9fOHMhQYiqgiNXTGJFTwdIdw=w2560-h1440-rw"
-    ]
-  },
-  {
     "name": "iWidgets",
     "category": "Widgets",
     "description": "iOS Inspired Widgets",
@@ -21,6 +10,17 @@
       "https://play-lh.googleusercontent.com/QuZESMUttLrZd2tCeONB8Ar6cn76ezrp4YTmxil0FYw7nqFVRpNWUEW1cNg3-LbDdV5dA0dEPEgOS_dxocIf=w2560-h1440-rw",
       "https://play-lh.googleusercontent.com/OrvbTKWs_DJPKDSAPYCmjhflloU__zVboumls9gVlvXU5XZPa2Np4XEclSLwdtaoWEnDs4YS1iUkiL8k5JGzcU8=w2560-h1440-rw",
       "https://play-lh.googleusercontent.com/wGHcPK3MMTQR7YbjVhv755qrJY5ANSl_uY5ccJguST3F6dy6eswZSIa0KX1JMA9H6Fww1OoKTsGFEcTkBooTww=w2560-h1440-rw"
+    ]
+  },
+  {
+    "name": "Everything Widgets",
+    "category": "Widgets",
+    "description": "Widgets Inspired by Nothing Device",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.nothing.widgets.pack&hl=en_IN",
+    "images": [
+      "https://play-lh.googleusercontent.com/QwCc-YMr52KPXqFXKjAkWfReMP76iAdT9N3hFYxvkZBSrOpvWxMzkUKgcQqL3r5Je-TvpTg7pwmwMlfQ6LIOEQ=w2560-h1440-rw",
+      "https://play-lh.googleusercontent.com/bDaIX03_AAyB6FHTNZF_tcLfrTwcyQAzttXJmGEeXW2SMRU2b9OOQ3sBBUYIt43CCVGRsMH9iph89HXq_ackDA=w2560-h1440-rw",
+      "https://play-lh.googleusercontent.com/0-IzYASc-oAEy0uDx9Dfpeuv4su6bwyV6GenBaX17750AQiV4DAHUayUyPBZYV9fOHMhQYiqgiNXTGJFTwdIdw=w2560-h1440-rw"
     ]
   },
   {
