@@ -23,35 +23,12 @@
     "isFree": true
   },
   {
-    "name": "iWidgets - iOS",
-    "category": "Widgets",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.i.widgets.pack",
-    "images": [
-      "https://play-lh.googleusercontent.com/m6qaeHfRogXAOfEY8ghzR8WZWYX-mpvyieI8H7Ol37z9a2SVsCfr3yP902knYxoL98tp_BZe7ilZU-pRTQ3Y8g=w2560-h1440-rw"
-    ],
-    "featured": false,
-    "isNew": false,
-    "isFree": false
-  },
-  {
     "name": "Everything Widgets",
     "category": "Widgets",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.nothing.widgets.pack&hl=en_IN",
     "images": [
       "https://play-lh.googleusercontent.com/QwCc-YMr52KPXqFXKjAkWfReMP76iAdT9N3hFYxvkZBSrOpvWxMzkUKgcQqL3r5Je-TvpTg7pwmwMlfQ6LIOEQ=w2560-h1440-rw",
       "https://play-lh.googleusercontent.com/0-IzYASc-oAEy0uDx9Dfpeuv4su6bwyV6GenBaX17750AQiV4DAHUayUyPBZYV9fOHMhQYiqgiNXTGJFTwdIdw=w2560-h1440-rw"
-    ],
-    "featured": false,
-    "isNew": false,
-    "isFree": false
-  },
-  {
-    "name": "Glass Widgets Pro",
-    "category": "Widgets",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.neon.glass.pack",
-    "images": [
-      "https://play-lh.googleusercontent.com/03wfcBSdVz9nspG5-33Ux6DoRJRD3OoMnfEQsJe-kXMhQ3NGBFObIT_UmRaGNlbOqRUmPi5FeXxzm3yLQ8h11g=w2560-h1440-rw",
-      "https://play-lh.googleusercontent.com/OSifPSpb9I2PLdoxnwxskrG5LHcvXsCWkocWjIPAFlruvySt__Xc6hXMJdBW9_tC2BD1lp6Ttzj7R_rMHxwHkKU=w2560-h1440-rw"
     ],
     "featured": false,
     "isNew": false,
@@ -69,6 +46,17 @@
     "isFree": false
   },
   {
+    "name": "iWidgets - iOS",
+    "category": "Widgets",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.i.widgets.pack",
+    "images": [
+      "https://play-lh.googleusercontent.com/m6qaeHfRogXAOfEY8ghzR8WZWYX-mpvyieI8H7Ol37z9a2SVsCfr3yP902knYxoL98tp_BZe7ilZU-pRTQ3Y8g=w2560-h1440-rw"
+    ],
+    "featured": false,
+    "isNew": false,
+    "isFree": false
+  },
+  {
     "name": "Material Widgets : Everything",
     "category": "Widgets",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.material.widgets.pack",
@@ -77,6 +65,18 @@
       "https://play-lh.googleusercontent.com/dgfQbCQXRLyacr-Tlh_KGf9xB4FYNsOtfOAofHoimzraTPa-LY-HWBnM57JXjL2OW5NuU46yZMotebb2151PSUI=w2560-h1440-rw",
       "https://play-lh.googleusercontent.com/wg6Tdc71_jL28MoC089Fv9535mA1iGE4Zs-weukzPDVGBaQ5r7Q2ON51DWg_npO3qFeGe6pQony6Cef-SF8Mcw=w2560-h1440-rw",
       "https://play-lh.googleusercontent.com/0j1nXLeWHSFIg9OH7rUPTELl3RNcs_riCxwEip8bYzwVdDbQLFGtsYazVGzZF3wpD_yTIBD7JbrxGcZHSTg46bE=w2560-h1440-rw"
+    ],
+    "featured": false,
+    "isNew": false,
+    "isFree": false
+  },
+  {
+    "name": "Glass Widgets Pro",
+    "category": "Widgets",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.neon.glass.pack",
+    "images": [
+      "https://play-lh.googleusercontent.com/03wfcBSdVz9nspG5-33Ux6DoRJRD3OoMnfEQsJe-kXMhQ3NGBFObIT_UmRaGNlbOqRUmPi5FeXxzm3yLQ8h11g=w2560-h1440-rw",
+      "https://play-lh.googleusercontent.com/OSifPSpb9I2PLdoxnwxskrG5LHcvXsCWkocWjIPAFlruvySt__Xc6hXMJdBW9_tC2BD1lp6Ttzj7R_rMHxwHkKU=w2560-h1440-rw"
     ],
     "featured": false,
     "isNew": false,
