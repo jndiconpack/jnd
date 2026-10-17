@@ -1,5 +1,17 @@
 [
   {
+    "name": "Coming Soon...♥",
+    "category": "Widgets",
+    "description": "Pre-book Now to Get it For Free",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.glass.widgets",
+    "images": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSG-U_NhNt59BNKnGvDjfytkYI431E7-4QXnMtVTMRw7JRLsMSxXu9Pugt24ofQdr59uY6y6c8vfO6szaSbdK484_gTYahVvhgszXbWflxA5roDqA-NrRdqiToDhM0qgCQqw-Z-Q-wuYKSQVO_36vYK354KLkcRTBJnqJli106j1612SdItzh3SAv4mCCk/s1600/1024.png"
+    ],
+    "featured": true,
+    "isNew": true,
+    "isFree": false
+  },
+  {
     "name": "Minimal Widgets",
     "category": "Widgets",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.minimal.widgets",
