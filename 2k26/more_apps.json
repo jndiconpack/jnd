@@ -834,5 +834,17 @@
     "featured": false,
     "isNew": false,
     "isFree": false
+  },
+  {
+    "name": "Liquid Glass Widgets",
+    "category": "Widgets",
+    "description": "Pre-Book Now to Get it For FREE",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.jndapp.liquid.glass.widgets",
+    "images": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlPukRWJg9Z6LKIruWO7J5kpMLLbYf86neasEzEvlyswX_AprA2DXrMOVwXya6Tb6iHKMR1wskQWBJriaGQhaIY5sqFZk_9mVTWZ7wVX6PhnfG2Ti6CDZMPpHvWCvo-TeheNC24uQeNjNmPUBUWE7mgxKuDKOuHYCvDIUiekeidfPSfq-Un8RgESnIE4qt/s1600/Notification%2002.png"
+    ],
+    "featured": true,
+    "isNew": true,
+    "isFree": false
   }
 ]
